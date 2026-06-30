@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Mathe II/Newton-Cotes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Newton-Cotes"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Mathe II/Newton-Cotes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Newton-Cotes"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Mathe II/Newton-Cotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Newton-Cotes"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Mathe II/Newton-Cotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Newton-Cotes"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Mathe II/Newton-Cotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Newton-Cotes"
             }
           }
         ]
@@ -209,18 +209,32 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/AC I/Statistische Tests.md",
-    "source/content/index.md",
-    "README.md",
-    "source/content/Mathe II/Mathe II Annotations.md",
+    "source/content/Mathe II/Newton'sche Interpolation.md",
+    "source/content/Mathe II/Regula Falsi.md",
+    "source/content/Mathe II/Ridder's Verfahren.md",
+    "source/content/Mathe II/Runge-Kutta (RK4).md",
+    "source/content/Mathe II/Surjektive Abbildung.md",
+    "source/content/Mathe II/Vektor.md",
+    "source/content/Mathe II/Vektorraum.md",
     "source/content/Mathe II/Mathe II Overview.md",
     "source/content/Mathe II/Matrix.md",
+    "source/content/Mathe II/Lineare Abbildung.md",
+    "source/content/Mathe II/Langrange Interpolation.md",
+    "source/content/Mathe II/Isomorphismus.md",
+    "source/content/Mathe II/Interpolation.md",
+    "source/content/Mathe II/Injektive Abbildung.md",
+    "source/content/Mathe II/Homomorphismus.md",
+    "source/content/Mathe II/explizites Euler-Cauchy Verfahren.md",
+    "source/content/Mathe II/Morphismus.md",
+    "source/content/Mathe II/Newton-Cotes.md",
+    "source/content/index.md",
+    "source/content/Mathe II/EV - Eigenvektor.md",
+    "source/content/Mathe II/EW - Eigenwert.md",
+    "source/content/AC I/Statistische Tests.md",
+    "README.md",
+    "source/content/Mathe II/Mathe II Annotations.md",
     "source/content/AC I/AC I Overview.md",
     "source/content/AC I/Komplexe.md",
-    "source/content/category-folder/index.md",
-    "source/content/Mathe II/Homomorphismus.md",
-    "source/content/category-folder/Some note.md",
-    "99 - Meta/Templates/Technote.md",
     "99 - Meta/Templates",
     "99 - Meta/Attachments/snelllaw1.png",
     "99 - Meta/Attachments/pdf24_merged.jpg",
@@ -234,20 +248,6 @@
     "99 - Meta/Attachments/Pasted image 20260109135747.png",
     "99 - Meta/Attachments",
     "99 - Meta",
-    "source/content/Mathe II/explizites Euler-Cauchy Verfahren.md",
-    "source/content/Mathe II/Vektorraum.md",
-    "source/content/Mathe II/Vektor.md",
-    "source/content/Mathe II/Surjektive Abbildung.md",
-    "source/content/Mathe II/Runge-Kutta (RK4).md",
-    "source/content/Mathe II/Ridder's Verfahren.md",
-    "source/content/Mathe II/Regula Falsi.md",
-    "source/content/Mathe II/Newton-Cotes.md",
-    "source/content/Mathe II/Newton'sche Interpolation.md",
-    "source/content/Mathe II/Morphismus.md",
-    "source/content/Mathe II/Lineare Abbildung.md",
-    "source/content/Mathe II/Langrange Interpolation.md",
-    "source/content/Mathe II/Isomorphismus.md",
-    "source/content/Mathe II/Interpolation.md",
     "source/content/Mathe II",
     "source/content/AC I"
   ]
