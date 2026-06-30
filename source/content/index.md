@@ -7,12 +7,15 @@ These are my personal study notes, I use [obsidian](https://obsidian.md/)  to or
 
 I wrote all of them personally unless specifically stated otherwise. I may refer to books and course material but I do not provide them.
 
+> [!Info] How to use this site
+> If you want to find something, use the search option. It indexes page names, the content and tags.
+> Below you can find the overview pages of the Topics I covered so far if you need a place to start:
+> - [[AC I Overview]]
+> - [[Mathe II Overview]] 
+
 > [!Error] **Disclaimer** 
 > Sadly i am not flawless so I can't possibly guarantee that these notes are correct, I would be grateful if you fork and make a pull request [on the github](https://github.com/F-MNTN/Quarry) with any mistakes that you may find. 
 > Don't hold your breath for me to do anything with this website. I will keep up with it and build it along my studies but I wont make this my job or let it consume my free time.
 
  \- F-MNTN
 
-Topics:
-- [[AC I Overview]]
-- [[Mathe II Overview]]
