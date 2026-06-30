@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/AC I/Statistische Tests.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Statistische Tests"
+              "title": "index"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/AC I/Statistische Tests.md",
+                "file": "source/content/index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Statistische Tests"
+              "title": "index"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/AC I/Statistische Tests.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Statistische Tests"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/AC I/Statistische Tests.md",
+                "file": "source/content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Statistische Tests"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/AC I/Statistische Tests.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Statistische Tests"
+              "title": "Outline of index"
             }
           }
         ]
@@ -207,8 +207,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dbcf3faa0e150f55",
+  "active": "28b95d4765b4159b",
   "lastOpenFiles": [
+    "source/content/AC I/Statistische Tests.md",
     "source/content/index.md",
     "README.md",
     "source/content/Mathe II/Mathe II Annotations.md",
@@ -247,7 +248,6 @@
     "source/content/Mathe II/Langrange Interpolation.md",
     "source/content/Mathe II/Isomorphismus.md",
     "source/content/Mathe II/Interpolation.md",
-    "source/content/Mathe II/Injektive Abbildung.md",
     "source/content/Mathe II",
     "source/content/AC I"
   ]
