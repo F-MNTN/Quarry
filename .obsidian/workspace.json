@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Mathe II/Mathe II Overview.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathe II Overview"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Mathe II/Mathe II Overview.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mathe II Overview"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Mathe II/Mathe II Overview.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mathe II Overview"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Mathe II/Mathe II Overview.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mathe II Overview"
+              "title": "Outline of README"
             }
           }
         ]
@@ -187,9 +187,11 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
+    "source/content/Mathe II/Mathe II Annotations.md",
+    "README.md",
+    "source/content/Mathe II/Mathe II Overview.md",
     "source/content/Mathe II/Matrix.md",
     "source/content/AC I/AC I Overview.md",
-    "source/content/Mathe II/Mathe II Overview.md",
     "source/content/AC I/Komplexe.md",
     "source/content/category-folder/index.md",
     "source/content/Mathe II/Homomorphismus.md",
@@ -218,14 +220,12 @@
     "source/content/Mathe II/Newton-Cotes.md",
     "source/content/Mathe II/Newton'sche Interpolation.md",
     "source/content/Mathe II/Morphismus.md",
-    "source/content/Mathe II/Mathe II Annotations.md",
     "source/content/Mathe II/Lineare Abbildung.md",
     "source/content/Mathe II/Langrange Interpolation.md",
     "source/content/Mathe II/Isomorphismus.md",
     "source/content/Mathe II/Interpolation.md",
     "source/content/Mathe II/Injektive Abbildung.md",
     "source/content/Mathe II/Endomorphismus.md",
-    "source/content/Mathe II/EW - Eigenwert.md",
     "source/content/Mathe II",
     "source/content/AC I"
   ]

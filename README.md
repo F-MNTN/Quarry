@@ -1,23 +1,11 @@
-# Obsidian / Quartz / GitHub Pages Template
+# Find my notes [here](https://f-mntn.github.io/UniWebnotes/)
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+These are my personal study notes, I use [obsidian](https://obsidian.md/)  to organize them for myself, but that makes them extremely difficult to share via `theentiretyofmyknowledge.pdf` or similar file formats since obsidian-links are at the core of this *~~organisation~~*-style. So here is website.
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
+I wrote all of them personally unless specifically stated otherwise. I may refer to books and course material but I do not provide them.
 
-## Basic setup
+> **Disclaimer** 
+Sadly i am not flawless so I can't possibly guarantee that these notes are correct, I would be grateful if you fork and make a pull request with any mistakes that you may find. 
+Don't hold your breath for me to do anything with this website. I will keep up with it and build it along my studies but I wont make this my job or let it consume my free time.
 
-Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
-
-It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, run `npx quartz build --serve` in `./source/`
-
-## Raw HTML pages
-
-There is a [source/raw_html](./source/raw_html) folder that gets copied into the build folder in CI. This lets you host arbitrary HTML outside of quartz. Example: https://defenderofbasic.github.io/obsidian-quartz-template/raw-html-test.html
-
-I made the "raw HTML" option for people who are generating HTML UI's with Claude/ChatGPT but want to tweak them/host them themselves. Or make a personal archive of web pages, etc.
-
-## Further customization
-
-> Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.config.ts or changing the layout in quartz.layout.ts.
-
-https://quartz.jzhao.xyz/configuration
+ \- F-MNTN
