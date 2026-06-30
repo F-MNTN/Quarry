@@ -9,7 +9,7 @@ subject:
 ---
 # Core ideas
 
-[[source/content/AC I/index.md]]
+[[AC I Overview]]
 Trennung und Qualitative Nachweise von Spurenelementen aus unbekannten Proben.
 
 # Content
