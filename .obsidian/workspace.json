@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "852280eddb1d0b56",
+    "type": "split",
+    "children": [
+      {
+        "id": "baa052241c9a00a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28b95d4765b4159b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/AC I/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "422ae2b96476775b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf8b2eeb0fd3f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "196434a91bf53a3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e466fdefd80e7a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34a4a3734bb34ba0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b9cb8812c5698b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1033b0d1beefe59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7bdb890400c4558",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/content/AC I/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "f0f61d47e05ff635",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/content/AC I/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "47cb9faffe1cbd01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc2536f956d8a6b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d123465a76ec0094",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/content/AC I/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "28b95d4765b4159b",
+  "lastOpenFiles": [
+    "source/content/category-folder/index.md",
+    "source/content/Mathe II/index.md",
+    "source/content/Mathe II/Homomorphismus.md",
+    "source/content/AC I/index.md",
+    "source/content/category-folder/Some note.md",
+    "99 - Meta/Templates/Technote.md",
+    "99 - Meta/Templates",
+    "99 - Meta/Attachments/snelllaw1.png",
+    "99 - Meta/Attachments/pdf24_merged.jpg",
+    "99 - Meta/Attachments/WhatsApp Image 2025-06-12 at 19.30.27_d9765ca1.jpg",
+    "99 - Meta/Attachments/Pasted image 20260518122727.png",
+    "99 - Meta/Attachments/Pasted image 20260128162257.png",
+    "99 - Meta/Attachments/Pasted image 20260111154014.png",
+    "99 - Meta/Attachments/Pasted image 20260111153943.png",
+    "99 - Meta/Attachments/Pasted image 20260111153748.png",
+    "99 - Meta/Attachments/Pasted image 20260109163251.png",
+    "99 - Meta/Attachments/Pasted image 20260109135747.png",
+    "99 - Meta/Attachments",
+    "99 - Meta",
+    "source/content/Mathe II/explizites Euler-Cauchy Verfahren.md",
+    "source/content/Mathe II/Vektorraum.md",
+    "source/content/Mathe II/Vektor.md",
+    "source/content/Mathe II/Surjektive Abbildung.md",
+    "source/content/Mathe II/Runge-Kutta (RK4).md",
+    "source/content/Mathe II/Ridder's Verfahren.md",
+    "source/content/Mathe II/Regula Falsi.md",
+    "source/content/Mathe II/Newton-Cotes.md",
+    "source/content/Mathe II/Newton'sche Interpolation.md",
+    "source/content/Mathe II/Morphismus.md",
+    "source/content/Mathe II/Matrix.md",
+    "source/content/Mathe II/Mathe II Annotations.md",
+    "source/content/Mathe II/Lineare Abbildung.md",
+    "source/content/Mathe II/Langrange Interpolation.md",
+    "source/content/Mathe II/Isomorphismus.md",
+    "source/content/Mathe II/Interpolation.md",
+    "source/content/Mathe II/Injektive Abbildung.md",
+    "source/content/Mathe II/Endomorphismus.md",
+    "source/content/Mathe II/EW - Eigenwert.md",
+    "source/content/Mathe II",
+    "source/content/AC I"
+  ]
+}
