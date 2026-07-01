@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Mathe II/Newton-Cotes.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Newton-Cotes"
+              "title": "index"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Mathe II/Newton-Cotes.md",
-                "mode": "preview",
-                "source": true
+                "file": "source/content/index.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Newton-Cotes"
+              "title": "index"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3b9cb8812c5698b1",
@@ -199,7 +199,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
@@ -207,8 +206,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "28b95d4765b4159b",
+  "active": "dbcf3faa0e150f55",
   "lastOpenFiles": [
+    "99 - Meta/Attachments/Icons/prog5.png",
+    "99 - Meta/Attachments/Icons",
+    "source/content/index.md",
+    "source/content/Mathe II/Bijektive Abbildung.md",
+    "source/content/Mathe II/Bisektionsverfahren.md",
+    "source/content/Mathe II/Endomorphismus.md",
+    "source/content/Mathe II/Approximation.md",
+    "source/content/Mathe II/Automorphismus.md",
+    "source/content/Mathe II/Abbildungsmatrix.md",
+    "99 - Meta/Attachments/Icons/prog95.png",
+    "99 - Meta/Attachments/Icons/prog90.png",
+    "99 - Meta/Attachments/Icons/prog75.png",
+    "99 - Meta/Attachments/Icons/prog50.png",
+    "99 - Meta/Attachments/Icons/prog25.png",
+    "Pasted image 20260701141712.png",
+    "README.md",
+    "source/content/Mathe II/Newton-Cotes.md",
+    "Untitled",
     "source/content/Mathe II/Newton'sche Interpolation.md",
     "source/content/Mathe II/Regula Falsi.md",
     "source/content/Mathe II/Ridder's Verfahren.md",
@@ -225,27 +242,10 @@
     "source/content/Mathe II/Injektive Abbildung.md",
     "source/content/Mathe II/Homomorphismus.md",
     "source/content/Mathe II/explizites Euler-Cauchy Verfahren.md",
-    "source/content/Mathe II/Morphismus.md",
-    "source/content/Mathe II/Newton-Cotes.md",
-    "source/content/index.md",
-    "source/content/Mathe II/EV - Eigenvektor.md",
-    "source/content/Mathe II/EW - Eigenwert.md",
-    "source/content/AC I/Statistische Tests.md",
-    "README.md",
-    "source/content/Mathe II/Mathe II Annotations.md",
-    "source/content/AC I/AC I Overview.md",
-    "source/content/AC I/Komplexe.md",
     "99 - Meta/Templates",
     "99 - Meta/Attachments/snelllaw1.png",
     "99 - Meta/Attachments/pdf24_merged.jpg",
     "99 - Meta/Attachments/WhatsApp Image 2025-06-12 at 19.30.27_d9765ca1.jpg",
-    "99 - Meta/Attachments/Pasted image 20260518122727.png",
-    "99 - Meta/Attachments/Pasted image 20260128162257.png",
-    "99 - Meta/Attachments/Pasted image 20260111154014.png",
-    "99 - Meta/Attachments/Pasted image 20260111153943.png",
-    "99 - Meta/Attachments/Pasted image 20260111153748.png",
-    "99 - Meta/Attachments/Pasted image 20260109163251.png",
-    "99 - Meta/Attachments/Pasted image 20260109135747.png",
     "99 - Meta/Attachments",
     "99 - Meta",
     "source/content/Mathe II",
