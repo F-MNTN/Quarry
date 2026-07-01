@@ -2,7 +2,6 @@
 created: 2026-06-22
 tags:
   - Chemistry
-  - Wiki
 subject:
   - Analytical Chemistry
   - Basics

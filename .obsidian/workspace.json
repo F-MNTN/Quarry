@@ -14,12 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/How I study.md",
+                "file": "source/content/AC I/Trennungsgang.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "How I study"
+              "title": "Trennungsgang"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -36,12 +46,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/How I study.md",
+                "file": "source/content/AC I/Trennungsgang.md",
                 "mode": "preview",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "How I study"
+              "title": "Trennungsgang"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -210,15 +230,25 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/index.md",
-    "source/content/How I study.md",
-    "source/content/Mathe II/Mathe II Overview.md",
-    "source/content/AC I/AC I Overview.md",
-    "source/content/AC I/Säure-Base.md",
     "source/content/AC I/Vorproben.md",
+    "source/content/AC I/Trennungsgang.md",
     "source/content/AC I/Titration.md",
+    "source/content/AC I/Statistische Tests.md",
+    "source/content/AC I/Säure-Base.md",
+    "source/content/AC I/Salz.md",
+    "source/content/AC I/RedOx.md",
+    "source/content/AC I/Puffer.md",
+    "source/content/AC I/pH-Wert.md",
+    "source/content/AC I/Oxidationszahlen bestimmen.md",
+    "source/content/AC I/Löslichkeit.md",
     "source/content/AC I/Logarithmische Diagramme.md",
+    "source/content/AC I/Komplexe.md",
     "source/content/AC I/Gleichgewichte.md",
+    "source/content/AC I/Elektrochemische Analyse.md",
+    "source/content/AC I/AC I Overview.md",
+    "source/content/How I study.md",
+    "source/content/index.md",
+    "source/content/Mathe II/Mathe II Overview.md",
     "source/docs/images/quartz-layout-desktop.png",
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-tablet.png",
@@ -237,17 +267,7 @@
     "source/content/Mathe II/Bisektionsverfahren.md",
     "source/content/Mathe II/Endomorphismus.md",
     "source/content/Mathe II/Approximation.md",
-    "source/content/Mathe II/Automorphismus.md",
-    "source/content/Mathe II/Abbildungsmatrix.md",
-    "source/content/Mathe II/Newton-Cotes.md",
     "Untitled",
-    "source/content/Mathe II/Newton'sche Interpolation.md",
-    "source/content/Mathe II/Regula Falsi.md",
-    "source/content/Mathe II/Ridder's Verfahren.md",
-    "source/content/Mathe II/Runge-Kutta (RK4).md",
-    "source/content/Mathe II/Surjektive Abbildung.md",
-    "source/content/Mathe II/Vektor.md",
-    "source/content/Mathe II/Vektorraum.md",
     "99 - Meta/Templates",
     "source/content/99 - Attachments",
     "99 - Meta",
