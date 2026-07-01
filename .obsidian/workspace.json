@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/AC I/Trennungsgang.md",
+                "file": "source/content/Mathe II/Interpolation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trennungsgang"
+              "title": "Interpolation"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/AC I/Trennungsgang.md",
+                "file": "source/content/Mathe II/Interpolation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trennungsgang"
+              "title": "Interpolation"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#uni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Mathe II/Newton-Cotes.md",
+                "file": "source/content/Mathe II/Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Newton-Cotes"
+              "title": "Backlinks for Interpolation"
             }
           },
           {
@@ -209,12 +210,12 @@
               "title": "Outline of Newton-Cotes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +231,10 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/AC I/Vorproben.md",
+    "source/content/Mathe II/Approximation.md",
+    "source/content/AC I/AC I Overview.md",
     "source/content/AC I/Trennungsgang.md",
+    "source/content/AC I/Vorproben.md",
     "source/content/AC I/Titration.md",
     "source/content/AC I/Statistische Tests.md",
     "source/content/AC I/Säure-Base.md",
@@ -245,7 +248,6 @@
     "source/content/AC I/Komplexe.md",
     "source/content/AC I/Gleichgewichte.md",
     "source/content/AC I/Elektrochemische Analyse.md",
-    "source/content/AC I/AC I Overview.md",
     "source/content/How I study.md",
     "source/content/index.md",
     "source/content/Mathe II/Mathe II Overview.md",
@@ -266,7 +268,6 @@
     "source/content/Mathe II/Bijektive Abbildung.md",
     "source/content/Mathe II/Bisektionsverfahren.md",
     "source/content/Mathe II/Endomorphismus.md",
-    "source/content/Mathe II/Approximation.md",
     "Untitled",
     "99 - Meta/Templates",
     "source/content/99 - Attachments",
