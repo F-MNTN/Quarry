@@ -25,7 +25,7 @@ $$
 ![[Pasted image 20251109233632.png]]
 
 So for this example:
-![[99 - Meta/Attachments/Mathe_II_Skriptum 2.jpg]]
+![[Mathe_II_Skriptum 2.jpg]]
 referring to above:
 $p(x) = f(x_{0})p_{0}(x) + f(x_{1})p_{1}(x) + f(x_{2})p_{2}(x)$
 

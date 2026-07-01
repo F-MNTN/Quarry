@@ -14,7 +14,7 @@ Where $A_0, \dots, A_n \in \mathbb{K}$ are unknown constants.
 interpolates a function $f(x)$ that actually describes the dataset.
 
 Example:
-![[99 - Meta/Attachments/pdf24_merged.jpg]]
+![[pdf24_merged.jpg]]
 Importantly:
 $$
 \boxed{p(x)=A_0 + A_1(x-5,5)+A_2(x-5,5)(x-7,3)}
