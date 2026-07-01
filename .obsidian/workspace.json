@@ -6,6 +6,7 @@
       {
         "id": "baa052241c9a00a1",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "28b95d4765b4159b",
@@ -27,6 +28,7 @@
       {
         "id": "80fa052047cc5f50",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "dbcf3faa0e150f55",
@@ -35,7 +37,7 @@
               "type": "markdown",
               "state": {
                 "file": "source/content/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -206,18 +208,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dbcf3faa0e150f55",
+  "active": "28b95d4765b4159b",
   "lastOpenFiles": [
+    "source/content/How I study.md",
     "source/content/AC I/AC I Overview.md",
-    "source/content/AC I/Trennungsgang.canvas",
-    "source/content/AC I/Trennungsgang_Graph.canvas",
+    "source/content/AC I/Säure-Base.md",
+    "source/content/AC I/Vorproben.md",
+    "source/content/AC I/Titration.md",
+    "source/content/AC I/Logarithmische Diagramme.md",
+    "source/content/AC I/Gleichgewichte.md",
     "source/content/index.md",
-    "source/docs/advanced/making plugins.md",
-    "source/docs/advanced/index.md",
-    "source/docs/advanced/creating components.md",
-    "source/docs/advanced/architecture.md",
-    "source/quartz/static/icon.png",
-    "source/content/AC I/Trennungsgang.md",
     "source/docs/images/quartz-layout-desktop.png",
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-tablet.png",
@@ -230,6 +230,7 @@
     "README.md",
     "source/CODE_OF_CONDUCT.md",
     "Pasted image 20260701141712.png",
+    "source/quartz/static/og-image.png",
     "source/content/99 - Attachments/Icons",
     "source/content/Mathe II/Bijektive Abbildung.md",
     "source/content/Mathe II/Bisektionsverfahren.md",

@@ -16,12 +16,12 @@ These are my personal study notes, I use [obsidian](https://obsidian.md/)  to or
 > Below you can find the overview pages of the Topics I covered so far if you need a place to start and don't know what to search:
 > - [[AC I Overview]] ![[prog90.png|20]]
 > - [[Mathe II Overview]] ![[prog95.png|20]]
+>  
+> Or if you want to know [[How I study]], I also made a page about that.
 
 > [!Error] **Disclaimer** 
-> I wrote all of them personally unless specifically stated otherwise. I may refer to books and course material but **I do not provide them.**
+> I wrote all of them personally unless specifically stated otherwise. I may refer to scientific-papers, books and course material but **I do not provide them.**
 > Sadly I am not flawless so I can't possibly guarantee that these notes are correct or even complete for that matter, I would be grateful if you fork and make a pull request [on the github](https://github.com/F-MNTN/Quarry) with any mistakes that you may find. 
 > Don't hold your breath for me to do anything with this website. I will keep up with it and build it along my studies but I wont make this my job or let it consume my free time.
 
  \- F-MNTN
-
-
