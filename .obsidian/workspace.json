@@ -11,12 +11,14 @@
             "id": "28b95d4765b4159b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/docs/images/quartz-layout-desktop.png"
+                "file": "source/content/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "quartz-layout-desktop"
+              "icon": "lucide-file",
+              "title": "index"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -30,12 +32,14 @@
             "id": "dbcf3faa0e150f55",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/docs/images/quartz-layout-desktop.png"
+                "file": "source/content/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "quartz-layout-desktop"
+              "icon": "lucide-file",
+              "title": "index"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -202,8 +206,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "196434a91bf53a3f",
+  "active": "dbcf3faa0e150f55",
   "lastOpenFiles": [
+    "source/content/AC I/AC I Overview.md",
+    "source/content/AC I/Trennungsgang.canvas",
+    "source/content/AC I/Trennungsgang_Graph.canvas",
+    "source/content/index.md",
+    "source/docs/advanced/making plugins.md",
+    "source/docs/advanced/index.md",
+    "source/docs/advanced/creating components.md",
+    "source/docs/advanced/architecture.md",
+    "source/quartz/static/icon.png",
+    "source/content/AC I/Trennungsgang.md",
+    "source/docs/images/quartz-layout-desktop.png",
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-tablet.png",
     "source/docs/images/github-init-repo-options.png",
@@ -215,10 +230,6 @@
     "README.md",
     "source/CODE_OF_CONDUCT.md",
     "Pasted image 20260701141712.png",
-    "source/quartz/static/og-image.png",
-    "source/quartz/static/icon.png",
-    "source/content/index.md",
-    "source/content/99 - Attachments/Icons/prog5.png",
     "source/content/99 - Attachments/Icons",
     "source/content/Mathe II/Bijektive Abbildung.md",
     "source/content/Mathe II/Bisektionsverfahren.md",
@@ -236,12 +247,6 @@
     "source/content/Mathe II/Vektor.md",
     "source/content/Mathe II/Vektorraum.md",
     "source/content/Mathe II/Mathe II Overview.md",
-    "source/content/Mathe II/Matrix.md",
-    "source/content/Mathe II/Lineare Abbildung.md",
-    "source/content/Mathe II/Langrange Interpolation.md",
-    "source/content/Mathe II/Isomorphismus.md",
-    "source/content/Mathe II/Interpolation.md",
-    "source/content/Mathe II/Injektive Abbildung.md",
     "99 - Meta/Templates",
     "source/content/99 - Attachments",
     "99 - Meta",
