@@ -11,14 +11,12 @@
             "id": "28b95d4765b4159b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/content/index.md",
-                "mode": "source",
-                "source": true
+                "file": "source/docs/images/quartz-layout-desktop.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "quartz-layout-desktop"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -32,14 +30,12 @@
             "id": "dbcf3faa0e150f55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/content/index.md",
-                "mode": "source",
-                "source": false
+                "file": "source/docs/images/quartz-layout-desktop.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "quartz-layout-desktop"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -208,22 +204,28 @@
   },
   "active": "196434a91bf53a3f",
   "lastOpenFiles": [
-    "source/content/99 - Meta/Attachments/Icons/prog5.png",
-    "source/content/99 - Meta/Attachments/Icons",
+    "source/docs/images/quartz-layout-mobile.png",
+    "source/docs/images/quartz-layout-tablet.png",
+    "source/docs/images/github-init-repo-options.png",
+    "source/docs/images/giscus-repo.png",
+    "source/docs/images/giscus-example.png",
+    "source/docs/images/giscus-discussion.png",
+    "source/docs/images/dns records.png",
+    "source/README.md",
+    "README.md",
+    "source/CODE_OF_CONDUCT.md",
+    "Pasted image 20260701141712.png",
+    "source/quartz/static/og-image.png",
+    "source/quartz/static/icon.png",
     "source/content/index.md",
+    "source/content/99 - Attachments/Icons/prog5.png",
+    "source/content/99 - Attachments/Icons",
     "source/content/Mathe II/Bijektive Abbildung.md",
     "source/content/Mathe II/Bisektionsverfahren.md",
     "source/content/Mathe II/Endomorphismus.md",
     "source/content/Mathe II/Approximation.md",
     "source/content/Mathe II/Automorphismus.md",
     "source/content/Mathe II/Abbildungsmatrix.md",
-    "source/content/99 - Meta/Attachments/Icons/prog95.png",
-    "source/content/99 - Meta/Attachments/Icons/prog90.png",
-    "source/content/99 - Meta/Attachments/Icons/prog75.png",
-    "source/content/99 - Meta/Attachments/Icons/prog50.png",
-    "source/content/99 - Meta/Attachments/Icons/prog25.png",
-    "Pasted image 20260701141712.png",
-    "README.md",
     "source/content/Mathe II/Newton-Cotes.md",
     "Untitled",
     "source/content/Mathe II/Newton'sche Interpolation.md",
@@ -240,14 +242,9 @@
     "source/content/Mathe II/Isomorphismus.md",
     "source/content/Mathe II/Interpolation.md",
     "source/content/Mathe II/Injektive Abbildung.md",
-    "source/content/Mathe II/Homomorphismus.md",
-    "source/content/Mathe II/explizites Euler-Cauchy Verfahren.md",
-    "source/content/99 - Meta/Templates",
-    "source/content/99 - Meta/Attachments/snelllaw1.png",
-    "source/content/99 - Meta/Attachments/pdf24_merged.jpg",
-    "source/content/99 - Meta/Attachments/WhatsApp Image 2025-06-12 at 19.30.27_d9765ca1.jpg",
-    "source/content/99 - Meta/Attachments",
-    "source/content/99 - Meta",
+    "99 - Meta/Templates",
+    "source/content/99 - Attachments",
+    "99 - Meta",
     "source/content/Mathe II",
     "source/content/AC I"
   ]
