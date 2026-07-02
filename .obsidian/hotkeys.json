@@ -16,13 +16,29 @@
       "key": "R"
     }
   ],
-  "insert-template": [
+  "workspace:new-tab": [],
+  "app:go-forward": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "T"
+      "key": "ArrowRight"
     }
   ],
-  "workspace:new-tab": []
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "substitutions:add-substitution": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ]
 }
