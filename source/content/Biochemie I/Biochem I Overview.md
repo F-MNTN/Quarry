@@ -22,7 +22,7 @@ subject:
 	2. Anabolismus
 		- Photosynthese: Dunkelreaktion und Lichtreaktion
 		- Gluconeogenese
-		- Glycogenstoffwechsel
+		- Glycogen-Stoffwechsel
 		- Fettsäure Biosynthese
 		- Shuttle Systeme
 		- Stickstofffixierung und Stickstoff Kreislauf

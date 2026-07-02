@@ -7,6 +7,17 @@ subject:
 # Core ideas
 
 # Content
+# Funktionelle Gruppen
+Werden bezeichnet als spezielle Anordnungen von Atomen die an Molekülen in Reaktionen spezifische Aufgaben haben.
+# Polymer & Monomer
+Sind $n-$Fache Verkettungen von einzelnen Monomeren.
+
+| Polymer                                 | Monomer                                 |
+| --------------------------------------- | --------------------------------------- |
+| Protein (Polypeptid)                    | Aminosäure                              |
+| Nucleinsäure (Polynucleotid)            | Nucleotid                               |
+| Polysaccharide (komplexe Kohlenhydrate) | Monosaccharide (einzelen Kohlenhydrate) |
+
 # Metabolismus
 Alle chemischen Prozesse die in einem Organismus statt finden i.a.:
 - Abbau einer Substanz für Energiegewinnung
