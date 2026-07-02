@@ -4,5 +4,7 @@
   "omnisearch",
   "obsidian-relative-line-numbers",
   "settings-search",
-  "vim-yank-highlight"
+  "vim-yank-highlight",
+  "substitutions",
+  "chem"
 ]

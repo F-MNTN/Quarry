@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Biochemie I/Zelle.md",
+                "file": "source/content/Biochemie I/Wasser.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Zelle"
+              "title": "Wasser"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Biochemie I/Zelle.md",
+                "file": "source/content/Biochemie I/Wasser.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zelle"
+              "title": "Wasser"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -209,8 +209,11 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/Biochemie I/Grundlagen der Biochemie.md",
     "source/content/Biochemie I/Zelle.md",
+    "source/content/Biochemie I/Wasser.md",
+    "source/content/99 - Attachments/Pasted image 20260702144754.png",
+    "source/content/99 - Attachments/Pasted image 20260702144503.png",
+    "source/content/Biochemie I/Grundlagen der Biochemie.md",
     "source/content/Biochemie I/Biochem I Overview.md",
     "source/content/99 - Attachments/Pasted image 20260702133554.png",
     "source/content/99 - Attachments/Pasted image 20260702131640.png",
@@ -230,8 +233,6 @@
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-tablet.png",
     "source/docs/images/github-init-repo-options.png",
-    "source/docs/images/giscus-repo.png",
-    "source/docs/images/giscus-example.png",
     "source/README.md",
     "README.md",
     "source/CODE_OF_CONDUCT.md",

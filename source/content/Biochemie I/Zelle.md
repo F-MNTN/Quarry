@@ -22,7 +22,7 @@ Diese [Organellen](https://de.wikipedia.org/wiki/Organell) spezialisieren sich a
 auch "Zellplasma" genannt. Besteht aus flüssigem Zytosol, was gelöste Proteine beinhaltet, und dem festen Zytoskelett, was die Zelle und ihre Organellen mechanisch Stabilisiert.
 
 ### Nucleus - Zellkern
-Zeichnen zusammen mit Organellen die [[#Eukaryoten]] aus.  
+Zeichnen zusammen mit Organellen die [[#Eukaryoten]] aus.  Beinhalten die DNA der Zelle.
 
 ## [Prokaryoten](https://en.wikipedia.org/wiki/Prokaryote)
 Sind die einfachsten Zellen. Sie besitzen keinen Nucleus und keine Organellen.
@@ -32,6 +32,7 @@ Sind Bestandteil von Bakterien und Arachaeen.
 
 ## Eukaryoten
 Sind Bestandteile von Amöben, Pflanzen, Tieren, Pilzen, Algen. 
+![[Pasted image 20260702144503.png]][Source](https://www.medi-karriere.de/wp-content/uploads/2024/02/Grafik-Zelle-e1709050651268.jpg)
 
 |Organelle|Zweck|
 | - | - |
@@ -41,6 +42,7 @@ Sind Bestandteile von Amöben, Pflanzen, Tieren, Pilzen, Algen.
 |Endoplasmatisches Reticulum (ER)|Protein - faltung, - qualitätskontrolle, -translation, ... |
 |Golgi-Apparat| Packt die Moleküle für Transport ab (z.B.: Proteine des ER, Lipide) |
 |evntl. Chloroplasten| Photosynthese (die Gruppe der Plastiden differenziert sich in höheren Pflanzen aus Chloroplasten)|
+
 ## Vergleich
 
 | Merkmal              | Eukaryoten                                          | Prokaryoten                              |
@@ -53,3 +55,9 @@ Sind Bestandteile von Amöben, Pflanzen, Tieren, Pilzen, Algen.
 | Fortbewegungsorgan   | intrazellulär, stülpen sich nach außen              | extrazellulär                            |
 | Größe                | $5-100\mu m$                                          | $1-10\mu m$                               |
 | Zytoskelett          | Vorhanden                                           | Vorhanden                                |
+
+## Der Baum des Lebens
+![[Pasted image 20260702144754.png]][Source](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/PhylogeneticTree%2C_Woese_1990.PNG/1280px-PhylogeneticTree%2C_Woese_1990.PNG)
+
+## Modellorganismen
+Organismen die praktisch sind und sich aufgrund ihrer Eigenschaften gut für Verwendung und Züchtung im Labor anbieten. Dies kann sein, weil sie sich im Bezug zu einer bestimmten Anwendung anbieten oder auch wegen einer kurzen Generationszeit für schnelle Kulturentwicklung.
