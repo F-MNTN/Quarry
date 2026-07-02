@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Biochemie I/Biochem I Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Biochem I Overview"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
-                "mode": "source",
+                "file": "source/content/Biochemie I/Biochem I Overview.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Biochem I Overview"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b9cb8812c5698b1",
@@ -208,10 +209,14 @@
   },
   "active": "dbcf3faa0e150f55",
   "lastOpenFiles": [
+    "source/content/Biochemie I/Grundlagen der Biochemie.md",
+    "source/content/Biochemie I/Biochem I Overview.md",
+    "source/content/Biochemie I/Zelle.md",
     "source/content/AC I/AC I Overview.md",
+    "source/content/index.md",
+    "source/content/Biochemie I",
     "source/content/AC I/Trennungsgang.canvas",
     "source/content/AC I/Trennungsgang_Graph.canvas",
-    "source/content/index.md",
     "source/docs/advanced/making plugins.md",
     "source/docs/advanced/index.md",
     "source/docs/advanced/creating components.md",
@@ -245,8 +250,6 @@
     "source/content/Mathe II/Runge-Kutta (RK4).md",
     "source/content/Mathe II/Surjektive Abbildung.md",
     "source/content/Mathe II/Vektor.md",
-    "source/content/Mathe II/Vektorraum.md",
-    "source/content/Mathe II/Mathe II Overview.md",
     "99 - Meta/Templates",
     "source/content/99 - Attachments",
     "99 - Meta",
