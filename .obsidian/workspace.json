@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Biochemie I/Grundlagen der Biochemie.md",
+                "file": "source/content/Biochemie I/Zelle.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Grundlagen der Biochemie"
+              "title": "Zelle"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Biochemie I/Grundlagen der Biochemie.md",
+                "file": "source/content/Biochemie I/Zelle.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grundlagen der Biochemie"
+              "title": "Zelle"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -209,8 +209,8 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/Biochemie I/Zelle.md",
     "source/content/Biochemie I/Grundlagen der Biochemie.md",
+    "source/content/Biochemie I/Zelle.md",
     "source/content/Biochemie I/Biochem I Overview.md",
     "source/content/99 - Attachments/Pasted image 20260702133554.png",
     "source/content/99 - Attachments/Pasted image 20260702131640.png",
