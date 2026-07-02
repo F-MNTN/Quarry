@@ -1,5 +1,10 @@
-[[Technote]] created on Th | 08-01-2026 17:32
-
+---
+created:
+tags:
+  - math
+subject:
+  - Linear Algebra
+---
 # Core ideas
 [[Lineare Abbildung]]
 [Mengenlehre – Wikipedia](https://de.wikipedia.org/wiki/Mengenlehre)

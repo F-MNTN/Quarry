@@ -2,6 +2,7 @@
 created: 2026-06-26
 tags:
   - Chemistry
+  - math
 subject:
   - Analytical Chemistry
   - Basics

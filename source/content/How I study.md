@@ -1,5 +1,8 @@
-Studying is a very personal process ("big nothing burger thanks" - i know).
-
+---
+created:
+tags:
+  - meta
+---
 # Entering a new subject
 Getting a grip of something entirely new is always difficult. Good thing is that someone had to invent/create/discover/define it. So there should always be documentation/tutorials. Use them, read them, watch them.
 ## Get an overview of the topics

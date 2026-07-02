@@ -1,5 +1,10 @@
-[[Technote]] created on Th | 08-01-2026 15:56
-
+---
+created:
+tags:
+  - math
+subject:
+  - Linear Algebra
+---
 # Core ideas
 [[Morphismus]]
 Wenn zwei algebraische Strukturen $A,B$ mit einem Isomorphismus $f$ beschrieben werden können sind diese algebraisch ident. (Eventuell nur anders angeschrieben)

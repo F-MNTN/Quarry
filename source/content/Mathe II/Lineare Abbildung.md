@@ -1,5 +1,10 @@
-[[Technote]] created on Th | 08-01-2026 18:20
-
+---
+created:
+tags:
+  - math
+subject:
+  - Linear Algebra
+---
 # Core ideas
 
 # Content

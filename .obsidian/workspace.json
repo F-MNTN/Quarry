@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Mathe II/Interpolation.md",
+                "file": "source/content/How I study.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interpolation"
+              "title": "How I study"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Mathe II/Interpolation.md",
+                "file": "source/content/How I study.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interpolation"
+              "title": "How I study"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#uni",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +118,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,26 +230,32 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/Mathe II/Approximation.md",
-    "source/content/AC I/AC I Overview.md",
-    "source/content/AC I/Trennungsgang.md",
-    "source/content/AC I/Vorproben.md",
-    "source/content/AC I/Titration.md",
-    "source/content/AC I/Statistische Tests.md",
-    "source/content/AC I/Säure-Base.md",
-    "source/content/AC I/Salz.md",
-    "source/content/AC I/RedOx.md",
-    "source/content/AC I/Puffer.md",
-    "source/content/AC I/pH-Wert.md",
-    "source/content/AC I/Oxidationszahlen bestimmen.md",
-    "source/content/AC I/Löslichkeit.md",
-    "source/content/AC I/Logarithmische Diagramme.md",
-    "source/content/AC I/Komplexe.md",
-    "source/content/AC I/Gleichgewichte.md",
-    "source/content/AC I/Elektrochemische Analyse.md",
-    "source/content/How I study.md",
     "source/content/index.md",
+    "source/content/How I study.md",
+    "source/content/Mathe II/Vektorraum.md",
+    "source/content/Mathe II/Vektor.md",
+    "source/content/Mathe II/Surjektive Abbildung.md",
+    "source/content/Mathe II/Runge-Kutta (RK4).md",
+    "source/content/Mathe II/Ridder's Verfahren.md",
+    "source/content/Mathe II/Regula Falsi.md",
+    "source/content/Mathe II/Newton'sche Interpolation.md",
+    "source/content/Mathe II/Newton-Cotes.md",
+    "source/content/Mathe II/Morphismus.md",
+    "source/content/Mathe II/Matrix.md",
     "source/content/Mathe II/Mathe II Overview.md",
+    "source/content/Mathe II/Lineare Abbildung.md",
+    "source/content/Mathe II/Langrange Interpolation.md",
+    "source/content/Mathe II/Isomorphismus.md",
+    "source/content/Mathe II/Interpolation.md",
+    "source/content/Mathe II/Injektive Abbildung.md",
+    "source/content/Mathe II/Homomorphismus.md",
+    "source/content/Mathe II/explizites Euler-Cauchy Verfahren.md",
+    "source/content/Mathe II/EW - Eigenwert.md",
+    "source/content/Mathe II/EV - Eigenvektor.md",
+    "source/content/Mathe II/ER - Eigenraum.md",
+    "source/content/Mathe II/Endomorphismus.md",
+    "source/content/Mathe II/Bisektionsverfahren.md",
+    "source/content/Mathe II/Bijektive Abbildung.md",
     "source/docs/images/quartz-layout-desktop.png",
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-tablet.png",
@@ -259,15 +264,9 @@
     "source/docs/images/giscus-example.png",
     "source/docs/images/giscus-discussion.png",
     "source/docs/images/dns records.png",
-    "source/README.md",
-    "README.md",
-    "source/CODE_OF_CONDUCT.md",
     "Pasted image 20260701141712.png",
     "source/quartz/static/og-image.png",
     "source/content/99 - Attachments/Icons",
-    "source/content/Mathe II/Bijektive Abbildung.md",
-    "source/content/Mathe II/Bisektionsverfahren.md",
-    "source/content/Mathe II/Endomorphismus.md",
     "Untitled",
     "99 - Meta/Templates",
     "source/content/99 - Attachments",

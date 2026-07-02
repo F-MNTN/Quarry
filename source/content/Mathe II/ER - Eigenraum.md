@@ -1,5 +1,10 @@
-[[Technote]] created on Su | 11-01-2026 15:56
-
+---
+created:
+tags:
+  - math
+subject:
+  - Linear Algebra
+---
 # Core ideas
 [[EW - Eigenwert]]
 [[EV - Eigenvektor]]

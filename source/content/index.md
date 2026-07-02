@@ -1,5 +1,7 @@
 ---
 title: Welcome to the Quarry
+tags:
+  - meta
 ---
 Hello world!
 

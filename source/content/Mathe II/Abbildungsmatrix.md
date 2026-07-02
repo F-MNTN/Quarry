@@ -1,6 +1,10 @@
-[[Technote]] created on Fr | 09-01-2026 14:20
-
-# Core ideas
+---
+created:
+tags:
+  - math
+subject:
+  - Linear Algebra
+---
 [[Matrix]]
 [[Lineare Abbildung]]
 [[Injektive Abbildung]]

@@ -1,5 +1,10 @@
-[[Technote]] created on Th | 08-01-2026 15:50
-
+---
+created:
+tags:
+  - math
+subject:
+  - Linear Algebra
+---
 # Core ideas
 
 Stellen oft [[Lineare Abbildung]] dar, wird dann [[Abbildungsmatrix]] genannt.

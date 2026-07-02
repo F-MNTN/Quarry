@@ -1,5 +1,10 @@
-#math 
-[[Technote]] created on Sa | 08-11-2025 03:04
+---
+created:
+tags:
+  - math
+subject:
+  - Linear Algebra
+---
 # Core ideas
 Interpolation is a method to smooth functions. Depending on the size of a dataset it may perform better/worse than [[Approximation]].
 # Content

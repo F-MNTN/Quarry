@@ -1,5 +1,10 @@
-[[Technote]] created on We | 21-01-2026 10:29
-
+---
+created:
+tags:
+  - math
+subject:
+  - Linear Algebra
+---
 # Core ideas
 [[Differentialgleichung]]
 # Content

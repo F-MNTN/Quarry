@@ -1,6 +1,10 @@
-[[Technote]] created on Th | 08-01-2026 17:58
-# Core ideas
-
+---
+created:
+tags:
+  - math
+subject:
+  - Linear Algebra
+---
 # Content
 Jedes $y \in Y$ wird von mindestens einem $x \in X$ abgebildet
 ![[Pasted image 20260108175644.png]]
