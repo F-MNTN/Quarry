@@ -34,7 +34,6 @@ $$
 for $z \in \mathbb{C}$
 
 # References
-- [[Mathe_II_Skriptum.pdf#page=3|Mathe_II_Skriptum, p.3]]
 [Polynominterpolation – Wikipedia](https://de.wikipedia.org/wiki/Polynominterpolation)
 - [Lagrange polynomial - Wikipedia](https://en.wikipedia.org/wiki/Lagrange_polynomial)
 - [Polynominterpolation | Newton Basis – Wikipedia](https://de.wikipedia.org/wiki/Polynominterpolation#Ansatz:_Newton-Basis)

@@ -6,7 +6,6 @@
       {
         "id": "baa052241c9a00a1",
         "type": "tabs",
-        "dimension": 51.19331742243437,
         "children": [
           {
             "id": "28b95d4765b4159b",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/How I study.md",
+                "file": "source/content/Biochemie I/Proteine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How I study"
+              "title": "Proteine"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -38,7 +37,6 @@
       {
         "id": "80fa052047cc5f50",
         "type": "tabs",
-        "dimension": 48.80668257756563,
         "children": [
           {
             "id": "dbcf3faa0e150f55",
@@ -46,8 +44,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/How I study.md",
-                "mode": "preview",
+                "file": "source/content/Biochemie I/Proteine.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -61,7 +59,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How I study"
+              "title": "Proteine"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -139,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Mathe II/Interpolation.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interpolation"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -211,11 +209,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,43 +230,46 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/index.md",
-    "source/content/How I study.md",
-    "source/content/Mathe II/Vektorraum.md",
-    "source/content/Mathe II/Vektor.md",
-    "source/content/Mathe II/Surjektive Abbildung.md",
-    "source/content/Mathe II/Runge-Kutta (RK4).md",
-    "source/content/Mathe II/Ridder's Verfahren.md",
-    "source/content/Mathe II/Regula Falsi.md",
-    "source/content/Mathe II/Newton'sche Interpolation.md",
-    "source/content/Mathe II/Newton-Cotes.md",
-    "source/content/Mathe II/Morphismus.md",
-    "source/content/Mathe II/Matrix.md",
-    "source/content/Mathe II/Mathe II Overview.md",
-    "source/content/Mathe II/Lineare Abbildung.md",
-    "source/content/Mathe II/Langrange Interpolation.md",
-    "source/content/Mathe II/Isomorphismus.md",
+    "source/content/Biochemie I/Biomoleküle.md",
+    "source/content/Biochemie I/Lipide.md",
+    "source/content/Biochemie I/Kohlenhydrate.md",
+    "source/content/Biochemie I/Biochem I Overview.md",
+    "source/content/Biochemie I/Nukleinsäuren.md",
+    "source/content/Biochemie I/Proteine.md",
     "source/content/Mathe II/Interpolation.md",
-    "source/content/Mathe II/Injektive Abbildung.md",
-    "source/content/Mathe II/Homomorphismus.md",
-    "source/content/Mathe II/explizites Euler-Cauchy Verfahren.md",
-    "source/content/Mathe II/EW - Eigenwert.md",
-    "source/content/Mathe II/EV - Eigenvektor.md",
-    "source/content/Mathe II/ER - Eigenraum.md",
-    "source/content/Mathe II/Endomorphismus.md",
-    "source/content/Mathe II/Bisektionsverfahren.md",
-    "source/content/Mathe II/Bijektive Abbildung.md",
-    "source/docs/images/quartz-layout-desktop.png",
-    "source/docs/images/quartz-layout-mobile.png",
-    "source/docs/images/quartz-layout-tablet.png",
-    "source/docs/images/github-init-repo-options.png",
-    "source/docs/images/giscus-repo.png",
-    "source/docs/images/giscus-example.png",
-    "source/docs/images/giscus-discussion.png",
-    "source/docs/images/dns records.png",
-    "Pasted image 20260701141712.png",
-    "source/quartz/static/og-image.png",
+    "Mathe_II_Skriptum.pdf.md",
+    "source/content/Biochemie I/Grundlagen der Biochemie.md",
+    "source/content/99 - Attachments/Pasted image 20260703153253.png",
+    "source/content/99 - Attachments/Pasted image 20260703153150.png",
+    "source/content/99 - Attachments/Pasted image 20260703152951.png",
+    "source/content/Biochemie I/Zelle.md",
+    "source/content/index.md",
+    "source/content/Biochemie I/Wasser.md",
+    "source/content/99 - Attachments/Pasted image 20260703151250.png",
+    "source/content/99 - Attachments/Pasted image 20260703145231.png",
+    "source/content/99 - Attachments/Pasted image 20260703144302.png",
+    "source/content/99 - Attachments/Pasted image 20260703143511.png",
+    "source/content/How I study.md",
+    "source/content/AC I/Vorproben.md",
+    "conflict-files-obsidian-git.md",
+    "source/content/99 - Attachments/Pasted image 20260702144754.png",
+    "source/content/99 - Attachments/Pasted image 20260702144503.png",
+    "source/content/99 - Attachments/Pasted image 20260702133554.png",
+    "source/content/AC I/AC I Overview.md",
+    "source/content/Biochemie I",
+    "source/content/AC I/Trennungsgang.canvas",
+    "source/content/AC I/Trennungsgang_Graph.canvas",
+    "source/docs/advanced/making plugins.md",
+    "source/docs/advanced/index.md",
+    "source/docs/advanced/creating components.md",
+    "source/docs/advanced/architecture.md",
+    "source/content/AC I/Trennungsgang.md",
+    "source/README.md",
+    "README.md",
+    "source/CODE_OF_CONDUCT.md",
     "source/content/99 - Attachments/Icons",
+    "source/content/Mathe II/Bijektive Abbildung.md",
+    "source/content/Mathe II/Bisektionsverfahren.md",
     "Untitled",
     "99 - Meta/Templates",
     "source/content/99 - Attachments",
