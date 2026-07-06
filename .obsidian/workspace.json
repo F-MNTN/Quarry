@@ -29,39 +29,7 @@
               },
               "icon": "lucide-file",
               "title": "Proteine"
-            },
-            "group": "2cec87bb86f9cd28"
-          }
-        ]
-      },
-      {
-        "id": "80fa052047cc5f50",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dbcf3faa0e150f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/Biochemie I/Proteine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Proteine"
-            },
-            "group": "2cec87bb86f9cd28"
+            }
           }
         ]
       }
@@ -230,31 +198,34 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
+    "source/content/99 - Attachments/Pasted image 20260706155914.png",
+    "source/content/99 - Attachments/Pasted image 20260706154956.png",
+    "source/content/Biochemie I/Aminosäure.md",
+    "source/content/Biochemie I/Proteine.md",
+    "source/content/99 - Attachments/Pasted image 20260706150350.png",
+    "source/content/index.md",
+    "source/content/99 - Attachments/Pasted image 20260706144831.png",
+    "source/content/99 - Attachments/Pasted image 20260706144759.png",
+    "source/content/Biochemie I/Biochem I Overview.md",
+    "source/content/AC I/Säure-Base.md",
+    "source/content/99 - Attachments/Pasted image 20260706143245.png",
+    "source/content/99 - Attachments/Pasted image 20260706142932.png",
     "source/content/Biochemie I/Biomoleküle.md",
+    "source/content/Biochemie I/Zelle.md",
     "source/content/Biochemie I/Lipide.md",
     "source/content/Biochemie I/Kohlenhydrate.md",
-    "source/content/Biochemie I/Biochem I Overview.md",
     "source/content/Biochemie I/Nukleinsäuren.md",
-    "source/content/Biochemie I/Proteine.md",
     "source/content/Mathe II/Interpolation.md",
     "Mathe_II_Skriptum.pdf.md",
     "source/content/Biochemie I/Grundlagen der Biochemie.md",
     "source/content/99 - Attachments/Pasted image 20260703153253.png",
     "source/content/99 - Attachments/Pasted image 20260703153150.png",
     "source/content/99 - Attachments/Pasted image 20260703152951.png",
-    "source/content/Biochemie I/Zelle.md",
-    "source/content/index.md",
     "source/content/Biochemie I/Wasser.md",
     "source/content/99 - Attachments/Pasted image 20260703151250.png",
-    "source/content/99 - Attachments/Pasted image 20260703145231.png",
-    "source/content/99 - Attachments/Pasted image 20260703144302.png",
-    "source/content/99 - Attachments/Pasted image 20260703143511.png",
     "source/content/How I study.md",
     "source/content/AC I/Vorproben.md",
     "conflict-files-obsidian-git.md",
-    "source/content/99 - Attachments/Pasted image 20260702144754.png",
-    "source/content/99 - Attachments/Pasted image 20260702144503.png",
-    "source/content/99 - Attachments/Pasted image 20260702133554.png",
     "source/content/AC I/AC I Overview.md",
     "source/content/Biochemie I",
     "source/content/AC I/Trennungsgang.canvas",
@@ -266,10 +237,7 @@
     "source/content/AC I/Trennungsgang.md",
     "source/README.md",
     "README.md",
-    "source/CODE_OF_CONDUCT.md",
     "source/content/99 - Attachments/Icons",
-    "source/content/Mathe II/Bijektive Abbildung.md",
-    "source/content/Mathe II/Bisektionsverfahren.md",
     "Untitled",
     "99 - Meta/Templates",
     "source/content/99 - Attachments",
