@@ -6,7 +6,6 @@
       {
         "id": "baa052241c9a00a1",
         "type": "tabs",
-        "dimension": 51.19331742243437,
         "children": [
           {
             "id": "28b95d4765b4159b",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Mathe II/Newton-Cotes.md",
+                "file": "source/content/Biochemie I/Nukleinsäuren.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,41 +28,8 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Newton-Cotes"
-            },
-            "group": "2cec87bb86f9cd28"
-          }
-        ]
-      },
-      {
-        "id": "80fa052047cc5f50",
-        "type": "tabs",
-        "dimension": 48.80668257756563,
-        "children": [
-          {
-            "id": "dbcf3faa0e150f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/Mathe II/Newton-Cotes.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Newton-Cotes"
-            },
-            "group": "2cec87bb86f9cd28"
+              "title": "Nukleinsäuren"
+            }
           }
         ]
       }
@@ -122,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b9cb8812c5698b1",
@@ -214,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,23 +198,26 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
+    "source/content/99 - Attachments/Pasted image 20260708004011.png",
+    "source/content/99 - Attachments/Pasted image 20260708003957.png",
+    "source/content/99 - Attachments/Pasted image 20260708003932.png",
+    "source/content/99 - Attachments/Pasted image 20260708003040.png",
+    "source/content/99 - Attachments/Pasted image 20260708002705.png",
+    "source/content/99 - Attachments/Pasted image 20260708002041.png",
+    "source/content/Biochemie I/Biochem I Overview.md",
+    "source/content/Biochemie I/Biomoleküle.md",
+    "source/content/Biochemie I/Enzym.md",
+    "source/content/Mathe II/Newton-Cotes.md",
     "source/content/Biochemie I/Proteine.md",
     "source/content/Biochemie I/Nukleinsäuren.md",
     "source/content/Biochemie I/Lipide.md",
     "source/content/Biochemie I/Kohlenhydrate.md",
-    "source/content/Biochemie I/Enzym.md",
-    "source/content/Biochemie I/Biomoleküle.md",
     "source/content/Biochemie I/Aminosäure.md",
     "source/content/99 - Attachments/Pasted image 20260707195850.png",
     "source/content/99 - Attachments/Pasted image 20260707195058.png",
     "source/content/99 - Attachments/Pasted image 20260707192157.png",
     "source/content/99 - Attachments/Pasted image 20260707183144.png",
     "source/content/99 - Attachments/Pasted image 20260707182314.png",
-    "source/content/99 - Attachments/Pasted image 20260707173830.png",
-    "source/content/99 - Attachments/Pasted image 20260707173746.png",
-    "source/content/99 - Attachments/Pasted image 20260707171416.png",
-    "source/content/99 - Attachments/Pasted image 20260707170112.png",
-    "source/content/99 - Attachments/Pasted image 20260707170006.png",
     "source/content/How I study.md",
     "source/content/index.md",
     "source/content/Mathe II/Vektorraum.md",
@@ -256,7 +227,6 @@
     "source/content/Mathe II/Ridder's Verfahren.md",
     "source/content/Mathe II/Regula Falsi.md",
     "source/content/Mathe II/Newton'sche Interpolation.md",
-    "source/content/Mathe II/Newton-Cotes.md",
     "source/content/Mathe II/Morphismus.md",
     "source/content/Mathe II/Matrix.md",
     "source/content/Mathe II/Mathe II Overview.md",
@@ -264,8 +234,6 @@
     "source/content/Mathe II/Langrange Interpolation.md",
     "source/content/Mathe II/Isomorphismus.md",
     "source/content/Mathe II/Interpolation.md",
-    "source/content/Mathe II/Injektive Abbildung.md",
-    "source/content/Mathe II/Homomorphismus.md",
     "source/content/99 - Attachments/Icons",
     "Untitled",
     "99 - Meta/Templates",
