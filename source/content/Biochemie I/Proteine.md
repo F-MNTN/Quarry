@@ -138,3 +138,9 @@ Ist die Umkehrreaktion zur [[#Denaturierung|Denaturierung]] und ist nur möglich
 Ist ein [[Enzym]], dass ein Protein von einem Isomer in ein anderes überführt indem die Disulfid-brücken einzeln aufgebrochen und neu geformt werden.
 ![[Pasted image 20260707195850.png]]
 [Source](http://cellandmolecularbiology.pressbooks.tru.ca/wp-content/uploads/sites/107/2023/03/image4.gif)
+## Cofaktoren
+### Prosthetische Gruppen
+Ein organisches Molekül, das kovalent an ein [[Enzym]] gebunden ist; die prostetische Gruppe kann also nicht dissoziieren. Siehe [Cofaktor (Biochemie) – Wikipedia](https://de.wikipedia.org/wiki/Cofaktor_(Biochemie)) für mehr Info.
+### Metalloproteine
+Metall-ionen die an ein Enzym gebudn und für dessen Katalyse erforderlich sind, sind auch Teil von den [Cofaktoren](https://de.wikipedia.org/wiki/Cofaktor_(Biochemie).
+Das entsprechende [[Enzym]] wird Metalloenzym genannt.
