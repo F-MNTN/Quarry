@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Biochemie I/Proteine.md",
+                "file": "source/content/Biochemie I/Biomoleküle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Proteine"
+              "title": "Biomoleküle"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b9cb8812c5698b1",
@@ -198,10 +197,15 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
+    "source/content/Biochemie I/Proteine.md",
+    "source/content/99 - Attachments/Pasted image 20260707130918.png",
+    "source/content/99 - Attachments/Pasted image 20260707130634.png",
+    "source/content/99 - Attachments/Pasted image 20260707130553.png",
+    "source/content/Biochemie I/Aminosäure.md",
+    "source/content/Biochemie I/Biomoleküle.md",
+    "README.md",
     "source/content/99 - Attachments/Pasted image 20260706155914.png",
     "source/content/99 - Attachments/Pasted image 20260706154956.png",
-    "source/content/Biochemie I/Aminosäure.md",
-    "source/content/Biochemie I/Proteine.md",
     "source/content/99 - Attachments/Pasted image 20260706150350.png",
     "source/content/index.md",
     "source/content/99 - Attachments/Pasted image 20260706144831.png",
@@ -210,7 +214,6 @@
     "source/content/AC I/Säure-Base.md",
     "source/content/99 - Attachments/Pasted image 20260706143245.png",
     "source/content/99 - Attachments/Pasted image 20260706142932.png",
-    "source/content/Biochemie I/Biomoleküle.md",
     "source/content/Biochemie I/Zelle.md",
     "source/content/Biochemie I/Lipide.md",
     "source/content/Biochemie I/Kohlenhydrate.md",
@@ -218,11 +221,7 @@
     "source/content/Mathe II/Interpolation.md",
     "Mathe_II_Skriptum.pdf.md",
     "source/content/Biochemie I/Grundlagen der Biochemie.md",
-    "source/content/99 - Attachments/Pasted image 20260703153253.png",
-    "source/content/99 - Attachments/Pasted image 20260703153150.png",
-    "source/content/99 - Attachments/Pasted image 20260703152951.png",
     "source/content/Biochemie I/Wasser.md",
-    "source/content/99 - Attachments/Pasted image 20260703151250.png",
     "source/content/How I study.md",
     "source/content/AC I/Vorproben.md",
     "conflict-files-obsidian-git.md",
@@ -236,7 +235,6 @@
     "source/docs/advanced/architecture.md",
     "source/content/AC I/Trennungsgang.md",
     "source/README.md",
-    "README.md",
     "source/content/99 - Attachments/Icons",
     "Untitled",
     "99 - Meta/Templates",
