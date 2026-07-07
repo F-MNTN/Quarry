@@ -6,7 +6,8 @@ subject:
   - Basics
 ---
 # Core ideas
-
+[Protein Structure - Professor Dave Explains](https://www.youtube.com/watch?v=EweuU2fEgjw&list=PLybg94GvOJ9Fazvaf8unWl9J2soXCAvy4)
+[Protein Structure - Organic Chemistry Tutor](https://www.youtube.com/watch?v=Bsk9hvXDJp8&list=PL0o_zxa4K1BWnb_W5mEnzvmp23QZCOO7G&index=1&t=1s)
 # Content
 ## Arten von Proteine & Funktion
 - Enzyme (als Biokatalysator)
@@ -61,7 +62,8 @@ Wobei die $\alpha$-Helix intramolekulare und das $\beta$-Faltblatt intermolekula
 [Source](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage4.slideserve.com%2F885548%2Falpha-helix-l.jpg&f=1&nofb=1&ipt=72170ee20668c9fa226e55e634a2f4c53f1f0f5a1ad43ce9bb6c93bf90fe8916) 
 
 #### $\alpha$-Helix
-- $\alpha$-Helix Hat rechts- und linksdrehende Versionen.
+- $\alpha$-Helix Hat rechts- und linksdrehende Versionen
+- 3,6 Aminosäure-Reste pro Drehung
 -  $\psi, \phi$ liegen um $-50°$ und $-60°$ 
 -  5-40 Aminosäuren lang (typischerweise ~10)
 -  Hier ist zu beachten, dass das Ende einer $\alpha$-Helix immer Polar ist und somit auch auf der Oberfläche des Proteins liegt.
@@ -91,5 +93,48 @@ Die häufigsten Motive sind:
 - $\alpha \alpha$-Motiv
 - Greek-key
 	- ineinander gefaltete $\beta$-Haarnadelschleife
-### Stabilisierung durch Disulfid-Bindungen
-Die Aminosäure Cystin hat eine Thiol-Gruppe als seinen Rest. Wenn 2 Cystin-Aminosäuren innerhalb einer Proteinstruktur nahe genug aneinander kommen können durch leichte Oxidation $S-S$ Bindungen bilden, die die tertiäre Struktur des Proteins weiter stabilisieren. 
+#### Stabilisierung durch Disulfid-Bindungen
+Die Aminosäure Cystin hat eine Thiol-Gruppe ($-SH$) als seinen Rest ($-R$). Wenn 2 Cystin-Aminosäuren innerhalb einer Proteinstruktur nahe genug aneinander kommen können durch leichte Oxidation $S-S$ Bindungen bilden, die die tertiäre Struktur des Proteins weiter stabilisieren. 
+### Quartärstruktur
+zeichnet sich durch eine Verkettung der [[#Tertiär Struktur]] aus. Die Aneinanderreihung mehreren Sub-units ist die Bildung von einer Quartärstuktur.
+Eine grob "lineare" Anordnung dieser Sub-units wird **Fibrilläres Protein** genannt und eine "Knödel"-artige Anordnung wird **Globuläres Protein** genannt.
+#### Fibrilläre Proteine
+##### Bsp: $\alpha$-Keratinsuperhelix
+Wenn man man die Keratinsuperhelix entlang der Helixachse betrachtet findet man, dass alle apolaren Reste auf der gleichen Seite angeordnet sind.
+Es existiert eine pseudorepetitive Sequenz `a-b-c-d-e-f-g`, wobei `a` und `d` überwiegend apolar sind.
+![[Pasted image 20260707182314.png]]
+[Source](https://en.wikipedia.org/wiki/Coiled_coil)
+In harten Keratinen gibt es viele Cystin-Reste was zu erhöhter [[#Stabilisierung durch Disulfid-Bindungen|Stabilisierung durch Disulfid-Bindungen]] führt.
+###### Höher-geordnete Strukturen von $\alpha$-Keratin
+![[Pasted image 20260707183144.png]]
+[Source](https://www.medi-karriere.de/wiki/keratin/)
+- 2 Keratin-Polypeptidketten bilden dimere *Superhelix*.
+- *Protofilamente* bestehen aus zwei gegeneinander versetzte Reihen Kopf-Schwanz assoziierter Superhelices (im Bild Tetramer genannt).
+- mehrere Protofilamente bilden eine Mikrofibrille oder auch Filament (Beispiele)
+
+##### Kollagen
+Ähnlich wie bei der Keratinsuperhelix bildet sich hier auch eine -meriserte Helix-struktur. Nur handelt es sich hier nicht um eine 2-zählige Helix sondern um eine 3-zählige.
+![[Pasted image 20260707192157.png]]
+[Source](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-wdZzwj_K3DA%2FXGEhjc9epYI%2FAAAAAAAAKvg%2FI_zwuvFKpSoqG3cO-Gw89XoIoqkv3SV8wCLcBGAs%2Fs1600%2Fcollagen%252B.png&f=1&nofb=1&ipt=3518fbf1d0c14294288c0f78d90a278e4d7aa21d697cd9fa058e82c97484b5ea)
+Kollagen folgt einer `G-X-P` / `G-X-P(OH)` Sequenz wobei `X` Platzhalter für Aminosäuren ist.
+
+#### Globuläre Proteine
+##### $\alpha$-Proteine
+zb.: Cytochrom $b_{562}$ in E. coli. bildet eine Bündel aus 4 $\alpha$-Helices
+##### $\beta$-Proteine
+zb.: menschliches Immunglobulinfragment besteht aus 3- & 4-strangigen antiparallelen [[#$ beta$-Faltblatt|Faltblättern]]. 
+##### $\alpha / \beta$-Proteine
+zb.: Lactat-Dehydrogenase des Hais enthält ein 6-strangiges paralleles $\beta$-Faltblatt in dem man Verbindungselemente zwischen $\beta$-Faltblättern und $\alpha$-Helix finden kann.
+## Denaturierung und Renaturierung von Proteinen
+### Denaturierung
+Ist ein Prozess bei der die Falt-Struktur eines Proteins aufgehoben wird, indem die [[#Stabilisierung durch Disulfid-Bindungen|Disulfidbindungen]] (durch Reduktion) aufgespalten werden. Dieser Prozess ist meist irreversibel und die Proteine verlieren dabei auch ihre biologische Funktion/Aktivität.
+Erhitzen eines Ei ist ein klassisches Beispiel für einen Denaturierungsprozess, der irreversibel verläuft. Die Reversibilität dieser Reaktion hängt von den energetischen Eigenschaften der [nativen Form](https://de.wikipedia.org/wiki/Nativer_Zustand) des Proteins ab. 
+![[Pasted image 20260707195058.png]]
+[Source](https://de.wikipedia.org/wiki/Denaturierung_(Biochemie)#/media/Datei:Process_of_Denaturation.svg)
+### Renaturierung
+Ist die Umkehrreaktion zur [[#Denaturierung|Denaturierung]] und ist nur möglich wenn die native Form des Proteins auch den energetisch günstigsten Zustand unter isotonischen Bedingungen darstellt.
+
+## Protein-Disulfid-Isomerase (PDI)
+Ist ein [[Enzym]], dass ein Protein von einem Isomer in ein anderes überführt indem die Disulfid-brücken einzeln aufgebrochen und neu geformt werden.
+![[Pasted image 20260707195850.png]]
+[Source](http://cellandmolecularbiology.pressbooks.tru.ca/wp-content/uploads/sites/107/2023/03/image4.gif)

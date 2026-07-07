@@ -43,5 +43,5 @@ Biochemie ist die Lehre der chemischen Substanzen und Prozesse die in Pflanzen, 
 - Biochemie  4. Auflage (2006); H. R.Horton,  L.A. Morgan, K.G. Scrimgeour, M.D. Perry,  J.D. Rawn,  Pearson Education International,  ISBN 978-3-8273 7312-0 
 - Kurzlehrbuch Biochemie, M. Königshoff, T.  Brandenburger Thieme, 2018 ISBN  9783131364111 
 ## Videos
-[Organic Chemistry Tutor - Biochemistry](https://www.youtube.com/playlist?list=PL0o_zxa4K1BWnb_W5mEnzvmp23QZCOO7G)
-[Professor Dave Explains - Biochemistry](https://www.youtube.com/playlist?list=PLybg94GvOJ9Fazvaf8unWl9J2soXCAvy4)
+- [Organic Chemistry Tutor - Biochemistry](https://www.youtube.com/playlist?list=PL0o_zxa4K1BWnb_W5mEnzvmp23QZCOO7G)
+- [Professor Dave Explains - Biochemistry](https://www.youtube.com/playlist?list=PLybg94GvOJ9Fazvaf8unWl9J2soXCAvy4)
