@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Biochemie I/Proteine.md",
+                "file": "source/content/Biochemie I/Biochem I Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Proteine"
+              "title": "Biochem I Overview"
             }
           }
         ]

@@ -9,7 +9,8 @@ subject:
 	- [[Zelle]]
 	- [[Wasser]]
 2. [[Biomoleküle]]
-	- Proteine
+	- [[Proteine]]
+		- [[Enzym|Enzyme]]
 	- Nukleinsäuren
 	- Kohlenhydrate und Lipide
 3. Stoffwechsel
