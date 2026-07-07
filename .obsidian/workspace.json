@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/How I study.md",
+                "file": "source/content/Mathe II/Newton-Cotes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How I study"
+              "title": "Newton-Cotes"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/How I study.md",
+                "file": "source/content/Mathe II/Newton-Cotes.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How I study"
+              "title": "Newton-Cotes"
             },
             "group": "2cec87bb86f9cd28"
           }
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b9cb8812c5698b1",
@@ -231,8 +230,25 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/index.md",
+    "source/content/Biochemie I/Proteine.md",
+    "source/content/Biochemie I/Nukleinsäuren.md",
+    "source/content/Biochemie I/Lipide.md",
+    "source/content/Biochemie I/Kohlenhydrate.md",
+    "source/content/Biochemie I/Enzym.md",
+    "source/content/Biochemie I/Biomoleküle.md",
+    "source/content/Biochemie I/Aminosäure.md",
+    "source/content/99 - Attachments/Pasted image 20260707195850.png",
+    "source/content/99 - Attachments/Pasted image 20260707195058.png",
+    "source/content/99 - Attachments/Pasted image 20260707192157.png",
+    "source/content/99 - Attachments/Pasted image 20260707183144.png",
+    "source/content/99 - Attachments/Pasted image 20260707182314.png",
+    "source/content/99 - Attachments/Pasted image 20260707173830.png",
+    "source/content/99 - Attachments/Pasted image 20260707173746.png",
+    "source/content/99 - Attachments/Pasted image 20260707171416.png",
+    "source/content/99 - Attachments/Pasted image 20260707170112.png",
+    "source/content/99 - Attachments/Pasted image 20260707170006.png",
     "source/content/How I study.md",
+    "source/content/index.md",
     "source/content/Mathe II/Vektorraum.md",
     "source/content/Mathe II/Vektor.md",
     "source/content/Mathe II/Surjektive Abbildung.md",
@@ -250,23 +266,6 @@
     "source/content/Mathe II/Interpolation.md",
     "source/content/Mathe II/Injektive Abbildung.md",
     "source/content/Mathe II/Homomorphismus.md",
-    "source/content/Mathe II/explizites Euler-Cauchy Verfahren.md",
-    "source/content/Mathe II/EW - Eigenwert.md",
-    "source/content/Mathe II/EV - Eigenvektor.md",
-    "source/content/Mathe II/ER - Eigenraum.md",
-    "source/content/Mathe II/Endomorphismus.md",
-    "source/content/Mathe II/Bisektionsverfahren.md",
-    "source/content/Mathe II/Bijektive Abbildung.md",
-    "source/docs/images/quartz-layout-desktop.png",
-    "source/docs/images/quartz-layout-mobile.png",
-    "source/docs/images/quartz-layout-tablet.png",
-    "source/docs/images/github-init-repo-options.png",
-    "source/docs/images/giscus-repo.png",
-    "source/docs/images/giscus-example.png",
-    "source/docs/images/giscus-discussion.png",
-    "source/docs/images/dns records.png",
-    "Pasted image 20260701141712.png",
-    "source/quartz/static/og-image.png",
     "source/content/99 - Attachments/Icons",
     "Untitled",
     "99 - Meta/Templates",

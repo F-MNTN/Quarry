@@ -34,14 +34,14 @@ Sind Bestandteil von Bakterien und Arachaeen.
 Sind Bestandteile von Amöben, Pflanzen, Tieren, Pilzen, Algen. 
 ![[Pasted image 20260702144503.png]][Source](https://www.medi-karriere.de/wp-content/uploads/2024/02/Grafik-Zelle-e1709050651268.jpg)
 
-|Organelle|Zweck|
-| - | - |
-|Mitochondrien|Synthetisiert [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate) durch [Zellatmung](https://en.wikipedia.org/wiki/Cellular_respiration#Aerobic_respiration)|
-|Peroxisomen|Nimmt am [[Katabolismus]] von zb.: Fettsäuren und Ethanol teil|
-|Lysosomen|Nimmt im [[Katabolismus]] am Abbau von Proteinen, Polysacchariden und Fetten teil|
-|Endoplasmatisches Reticulum (ER)|Protein - faltung, - qualitätskontrolle, -translation, ... |
-|Golgi-Apparat| Packt die Moleküle für Transport ab (z.B.: Proteine des ER, Lipide) |
-|evntl. Chloroplasten| Photosynthese (die Gruppe der Plastiden differenziert sich in höheren Pflanzen aus Chloroplasten)|
+| Organelle                        | Zweck                                                                                                                                                                |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mitochondrien                    | Synthetisiert [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate) durch [Zellatmung](https://en.wikipedia.org/wiki/Cellular_respiration#Aerobic_respiration) |
+| Peroxisomen                      | Nimmt am [[Katabolismus]] von zb.: Fettsäuren und Ethanol teil                                                                                                       |
+| Lysosomen                        | Nimmt im [[Katabolismus]] am Abbau von Proteinen, Polysacchariden und Fetten teil                                                                                    |
+| Endoplasmatisches Reticulum (ER) | Protein - faltung, - qualitätskontrolle, -translation, ...                                                                                                           |
+| Golgi-Apparat                    | Packt die Moleküle für Transport ab (z.B.: Proteine des ER, Lipide)                                                                                                  |
+| evntl. Chloroplasten             | Photosynthese (die Gruppe der Plastiden differenziert sich in höheren Pflanzen aus Chloroplasten)                                                                    |
 
 ## Vergleich
 
@@ -53,7 +53,7 @@ Sind Bestandteile von Amöben, Pflanzen, Tieren, Pilzen, Algen.
 | Äußere Begrenzung    | Zellmembran & -wand (bei Pflanzen- und Pilz-zellen) | Zellmembran & oftmals auch Zellwand      |
 | [[#Kompartimente]]   | Vorhanden                                           | Nicht vorhanden                          |
 | Fortbewegungsorgan   | intrazellulär, stülpen sich nach außen              | extrazellulär                            |
-| Größe                | $5-100\mu m$                                          | $1-10\mu m$                               |
+| Größe                | $5-100\mu m$                                        | $1-10\mu m$                              |
 | Zytoskelett          | Vorhanden                                           | Vorhanden                                |
 
 ## Der Baum des Lebens
@@ -61,3 +61,7 @@ Sind Bestandteile von Amöben, Pflanzen, Tieren, Pilzen, Algen.
 
 ## Modellorganismen
 Organismen die praktisch sind und sich aufgrund ihrer Eigenschaften gut für Verwendung und Züchtung im Labor anbieten. Dies kann sein, weil sie sich im Bezug zu einer bestimmten Anwendung anbieten oder auch wegen einer kurzen Generationszeit für schnelle Kulturentwicklung.
+### Caenorhabditis elegans (C. elegans)
+Hat auf molekularer Ebene ähnliche Lebensprozesse wie die Zellen eines Menschen. Wird für Drogen-tests werdet.
+### Saccharomyces cerevisiae (Hefe)
+Einzeller. In geringem Umfang mit Menschen verwandt. Für Krebsforschung relevant. Bietet sich für die Beobachtung des Zellzyklus an. 

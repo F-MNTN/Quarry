@@ -18,6 +18,9 @@ These are my personal study notes, I use [obsidian](https://obsidian.md/)  to or
 > Below you can find the overview pages of the Topics I covered so far if you need a place to start and don't know what to search:
 > - [[AC I Overview]] ![[prog90.png|20]]
 > - [[Mathe II Overview]] ![[prog95.png|20]]
+> - [[Biochem I Overview]] ![[prog5.png|20]]
+>
+> Here is a great, free course to OC: [Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/08/14/from-gen-chem-to-org-chem-pt-7-lewis-structures/)
 >  
 > Or if you want to know [[How I study]], I also made a page about that.
 
