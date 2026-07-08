@@ -7,5 +7,6 @@
   "vim-yank-highlight",
   "obsidian-auto-link-title",
   "substitutions",
-  "chem"
+  "chem",
+  "file-cleaner-redux"
 ]

@@ -12,7 +12,7 @@ subject:
 	- [[Proteine]]
 		- [[Enzym|Enzyme]]
 	- [[Nukleinsäuren]]
-	- Kohlenhydrate und Lipide
+	- [[Kohlenhydrate & Lipide]]
 3. Stoffwechsel
 	- Allgemeine Prinzipien
 	- Biothermodynamik
