@@ -11,7 +11,7 @@ subject:
 2. [[Biomoleküle]]
 	- [[Proteine]]
 		- [[Enzym|Enzyme]]
-	- Nukleinsäuren
+	- [[Nukleinsäuren]]
 	- Kohlenhydrate und Lipide
 3. Stoffwechsel
 	- Allgemeine Prinzipien
