@@ -10,7 +10,7 @@ subject:
 [Protein Structure - Organic Chemistry Tutor](https://www.youtube.com/watch?v=Bsk9hvXDJp8&list=PL0o_zxa4K1BWnb_W5mEnzvmp23QZCOO7G&index=1&t=1s)
 # Content
 ## Arten von Proteine & Funktion
-- Enzyme (als Biokatalysator)
+- [[Enzym]] (als Biokatalysator)
 - Rezeptoren
 - Transportmolekül (zb.: Hämoglobin)
 - Strukturbestandteil (Muskel- /Organgewebe)
