@@ -31,8 +31,9 @@ Im Bild sieht man die beiden Stereo-Isomere der D-Glucose (Anomere). Die Darstel
 Wo die $\alpha$-Konformation die $C_{1}-OH$-Gruppe und die $C_{5}-CH_{2}OH$-Gruppe auf verschiedenen Ringseiten hat.
 Die $\beta$-Konformation hat die $C_{1}-OH$-Gruppe auf der gleichen Ringseite wie die $C_{5}-CH_{2}OH$-Gruppe.
 ### Disaccharide
-> [!info] Glykosidische Bindung
-> Ist die Bindung von den 2 [[#Anomere der Monosaccharide|Anomeren eines Monosaccharids]] an deren jeweiligen $C_{1}$-Kohlenstoffen.
+#### Glykosidische Bindung
+ Ist die Bindung von einem [[#Monosaccharide und ihre Derivate|Zucker]], dass an seinem $C_{1}$ mit einer anderen Gruppe bindet. Dies passiert zB.: bei der Polymerisierung von Monosacchariden zu Di- und Polysacchariden. Hierbei wird die $-OH$-Gruppe des $C_{1}$ des 1. Saccharids protoniert und geht als $H_{2}O$ ab. Die $-OH$-Gruppe des $C_{4}$ des 2. Saccharids bindet dann an das resultierende Karbokation und de-protoniert sich um die Ladungen auszugleichen. [Mechanismus visualisiert](https://studyflix.de/chemie/glykosidische-bindung-2306/video)
+ Muss nicht unbedingt zwischen 2 Sacchariden sein.
 
 ### Polysaccharide
 
