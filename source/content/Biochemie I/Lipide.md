@@ -33,6 +33,7 @@ Die Doppelbindungen in [[#Ungesättigte Fettsäuren]] ändert die Form des resul
 Dies hat auch Auswirkungen auf die form und Stabilität der Membranstruktur an der diese Fettsäuren teil nehmen. 
 ![[Pasted image 20260709175600.png]]
 [Source](https://www.medi-karriere.de/wiki/fettsaeure-fettsaeuren/)
+Hier ist auch zu sehen, dass die integralen Membran[[Proteine|proteine]] durch die [[Grundlagen der Biochemie#Lipid-Doppelschicht|Lipid-Doppelschicht]] bahnen, welche aus den [[#Phospholipide]] und [[#Steroidhormone|Cholesterin]] zusammengesetzt ist. [[#Glykolipide]] und [[Kohlenhydrate]] kommen nur selten vor.
 ### Triglyceride - "Fett"
 Triacylglycerine sind dreifache Ester des 3-wertigen Alkohols Glycerin mit 3 Fettsäuremolekülen. Hierbei muss es sich nicht unbedingt um die gleiche Fettsäure handeln!
 ![[Pasted image 20260709122019.png]]
