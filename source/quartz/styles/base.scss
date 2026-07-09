@@ -509,9 +509,13 @@ tr {
 
 img {
   max-width: 100%;
-  background-color: white;
+  background-color: white; // background for better readability in darkmode
   border-radius: 5px;
   margin: 1rem 0;
+}
+
+li > img { // fix progress circles on landing page
+  background-color: none;
 }
 
 p > img + em {
