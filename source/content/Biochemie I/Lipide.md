@@ -25,6 +25,14 @@ Nur wenn keine Doppelbindungen vorkommen gilt eine Fettsäure als gesättigt.
 > *$\alpha$-Linolensäure* = 3-fach ungesättigte(mehrfach) Fettsäure
 > *Ölsäure* = 1-fach ungesättigte Fettsäure
 > *Palmitinsäure* = Gesättigte Fettsäure
+
+#### Auswirkung auf die Membranstruktur
+Die Doppelbindungen in [[#Ungesättigte Fettsäuren]] ändert die Form des resultierenden Molekül stark. 
+![[Pasted image 20260709175254.png]]
+[Source](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-hktG53VMSxA%2FVlyaHES0p8I%2FAAAAAAAAOXg%2FwxurXUaJN_w%2Fs1600%2FFetts%2525C3%2525A4uren.jpg&f=1&nofb=1&ipt=2a96c90c98c06e5e01d243020447bcd7a7ce37b840c5aeeedadd1af96019d50c)
+Dies hat auch Auswirkungen auf die form und Stabilität der Membranstruktur an der diese Fettsäuren teil nehmen. 
+![[Pasted image 20260709175600.png]]
+[Source](https://www.medi-karriere.de/wiki/fettsaeure-fettsaeuren/)
 ### Triglyceride - "Fett"
 Triacylglycerine sind dreifache Ester des 3-wertigen Alkohols Glycerin mit 3 Fettsäuremolekülen. Hierbei muss es sich nicht unbedingt um die gleiche Fettsäure handeln!
 ![[Pasted image 20260709122019.png]]
@@ -107,6 +115,8 @@ Ist sehr ähnlich Aufgebaut wie [[#Glycerophospholipide]]:
 - 1 [[Kohlenhydrate#Saccharide|Zucker]] der die Phosphatgruppe ersetzt
 ![[Pasted image 20260709162935.png]]
 [Source](https://en.wikipedia.org/wiki/Lipid#Glycerolipids)
+### Aggregatbildung von Lipiden
+Lipide schwimmen nicht einfach einzeln im Körper herum, sondern [[Grundlagen der Biochemie#Lipid-Doppelschicht|bilden Strukturen]], die die hydrophilen von den hydrophoben Stoffen trennen. [[#Phospholipide]] bieten sich dafür besonder gut an, da sie eine apolare und eine polare Seite haben.   
 ## Lipophile Stoffe
 ### Steroide
 Meist [[Zelle#Eukaryoten|eukaryotischer Herkunft]] und chemisch gesehen Derivate von `1,2-Cyclopentanhydrophenanthren`. 
@@ -121,11 +131,35 @@ In Säugetieren ist *Cholesterin* die Ausgangsverbindung der Steroidhormone.
 [Source](https://www.medi-learn.de/seiten/errata/pdf/BC5_S_36.pdf)
 Sie werden nach den physiologischen Antworten eingeteilt, die sie hervorrufen:
 > [!note] Glucocorticoide
-> zB.: Cortisol
+> zB.: Cortisol, ...
+> Beeinflusst Stoffwechsel von [[Kohlenhydrate]], [[Lipide]] & [[Proteine]] sowie viele Lebensfunktionen (Reaktion auf Entzüdung, Stress, ...)
 
 > [!note] Aldosterone und weitere Mineralcoticoide
-> 
+> Regulieren doe Ausscheidefunktion der Nieren
 
 > [!note] Androgene & Östrogene
-> zB.: Testoterson, ß-Östradiol
+> zB.: Testoterson, ß-Östradiol, ...
+> beeinflussen die sexuelle Entwicklung und Funktion des Körpers
+#### Vitamin D
+Vitamin D reguliert den $C^{2+}$ Stoffwechsel.
+Durch die UV Strahlung der Sonne können die Vorläufer Ergosterol & 7-Dehydrocholesterin in die aktivierte Form $D_{2}$ bzw $D_{3}$  umgewandelt werden.
+![[Pasted image 20260709172353.png]]
 ### Isoprenoide
+Sind fettlöslich, aber keine Membranbestandteile.
+Sind aus mehreren $C_{5}$-Einheiten mit dem Kohlenstoff-Skelett des Isoprens aufgebaut.
+![[Pasted image 20260709172650.png]]
+[Source](https://en.wikipedia.org/wiki/Isoprene)
+> [!Example] Isoprenoide im Körper
+> ![[Pasted image 20260709172949.png]]
+> 1. Vitamin E 
+> 	- Antioxidant
+> 2. Plastochinon ($n\in[4;8]$) 
+> 	- Chloroplasten
+> 3. Vitamin K 
+> 	- Phyllochinon
+> 4. Dolichol ($n \in [9;22]$)
+> 	- Glykosilierung
+> 5. Ubiquinon ($n \in [4;8]$)
+> 	- Atmung
+
+
