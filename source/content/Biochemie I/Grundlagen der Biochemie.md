@@ -35,7 +35,7 @@ Diese chemischen Prozesse brauchen organische Katalysatoren, die Enzyme genannt 
 > - Sind auf ein Fließ-GGW gerichtet (Homöostase) wobei sie bestimmte Parameter (pH, Volumen, Energie , ...) versuchen in einem Toleranzbereich zu halten um den Zyklus zu propagieren
 
 # Lipid-Doppelschicht
-Ähnlich wie in [[Wasser#Solvatisierung & Hydrathüllen]] auch Lipide richten sich nach ihren Polaren/Apolaren Dipolen aus. 
+Ähnlich wie in [[Wasser#Solvatisierung & Hydrathüllen]] auch [[Lipide#Phospholipide|Phospholipide]] richten sich nach ihren Dipolen aus. 
 ![[Pasted image 20260703153253.png|400]]![[Pasted image 20260703153150.png|250]] 
 [Source img 1](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.u-helmich.de%2Fbio%2Fcytologie%2F02%2F021%2FLipide%2FBilder%2FLiposomen-Mizellen-1.jpg&f=1&nofb=1&ipt=6adb2a11e2e7dbfe199e516a58c8196e5ca0c4e230c99a686ae540dafadf8813)
 [Source img 2](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bilayer_hydration_profile.svg/500px-Bilayer_hydration_profile.svg.png)

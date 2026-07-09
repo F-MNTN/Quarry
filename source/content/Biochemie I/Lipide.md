@@ -41,12 +41,41 @@ Bsp.: Palmitinsäuremeilissinester, ein Bestandteil von Bienenwachs
 ![[Pasted image 20260709124126.png]]
 [Source](https://de.wikipedia.org/wiki/Wachs)
 
-### Glycerophospholipide
+### Phospholipide
+#### Glycerophospholipide
 Derivate der [[#Triglyceride - "Fett"|Triglyceride]].
 #### [Nomenklatur](https://en.wikipedia.org/wiki/Glycerophospholipid#Nomenclature_and_stereochemistry)
+Glycerophospholipide verwenden "*sn* - stereo-spezifische Nummerierung" - Notation, welche sich an der [Fisher-Projektion](https://en.wikipedia.org/wiki/Fischer_projection) des Moleküls orientiert.
+Als Folge davon ist die $-OH$-Gruppe des 2.$C$-Atoms von Glycerol auf der linken Seite seiner Fisher-Projektion. 
+> [!note] Glycerol in Fisher-Projektion:
+> ![[Pasted image 20260709134257.png]]
+[Source](https://app.molview.com/)
+
+In Glycerol ist das nicht wirklich spannend oder nützlich, aber schon bei nur etwas komplizierteren Molekülen wie bei:
+> [!note] Glycerin-3-phosphat vs Glycerin-1-phosphat
+> ![[Pasted image 20260709135827.png]]
+> [Source](https://app.molview.com/)
+> ![[Pasted image 20260709142443.png]]
+> [Source](https://www.researchgate.net/figure/The-compound-shown-on-the-left-side-can-be-equivalently-referred-to-as_fig1_290450937)
 
 
-### Spingophospholipide
+
+wird ein grobes Muster erkennbar; `sn-glycero-1-` und `sn-glycero-3-phosphat` sind sehr einfach als Enantiomere von einander erkennbar. Zusätzlich ist die Nomenklatur eindeutig egal wie man auf das Molekül schaut (bei regulärer L/D Nomenklatur nicht, wie im Bild zu sehen ist).
+
+Es ist üblich die `3-sn` Position des Glycerins mit einem Phosphat und einem Alkohol zu verestern.
+Bsp.: Phosphatidyl-cholin (Lecithin)
+Cholin hier in Violett
+![[Pasted image 20260709140148.png]]
+[Source](https://en.wikipedia.org/wiki/Phospholipid)
+Bzw in Fischer-Projektion:
+![[Pasted image 20260709141538.png]]
+##### Plasmalogene/Etherlipide
+Plasmalogene sind komplexe Membranlipide die den Phospholipiden, spez. den Phosphatidylcholinen bzw den Phosphatidylethanolaminen, ähneln. 
+*Hauptunterschied* ist, dass die `1-sn` Fettsäure des Glycerins entweder ein `O-alkyl`($-O-CH_{2}-$) oder einen `O-alkenyl-Ether`($-O-CH=CH-$) enthält.
+$>10\%$ der [[#Phospholipide]] des Gehirns und der Muskeln gehören zu der Gruppe der Plasmalogene.
+![[Pasted image 20260709144744.png]]
+[Source](https://leistungsverzeichnis.uk-koeln.de/Diagnostik/Parameter/Daten/Plasmalogene.html)
+#### Spingophospholipide
 ### Glykolipide/Sphingolipide/Sphingoside
 
 ## Lipophile Stoffe
