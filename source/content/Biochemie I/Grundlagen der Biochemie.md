@@ -4,6 +4,7 @@ tags:
   - Chemistry
 subject:
   - Basics
+  - Biochemistry
 ---
 # Core ideas
 Die zentrale Rolle von [[Wasser]].

@@ -3,6 +3,9 @@ created: 2026-07-02
 tags:
   - Chemistry
 subject:
+  - Basics
+  - Biology
+  - Biochemistry
 ---
 # Core ideas
 Eine Zelle ist eine Membran-umschlossene Einheit, die die Grundmoleküle des Lebens enthält. Sie gilt als kleinste, funktionelle Grundeinheit des Lebens.
@@ -42,6 +45,8 @@ Sind Bestandteile von Amöben, Pflanzen, Tieren, Pilzen, Algen.
 | Endoplasmatisches Reticulum (ER) | Protein - faltung, - qualitätskontrolle, -translation, ...                                                                                                           |
 | Golgi-Apparat                    | Packt die Moleküle für Transport ab (z.B.: Proteine des ER, Lipide)                                                                                                  |
 | evntl. Chloroplasten             | Photosynthese (die Gruppe der Plastiden differenziert sich in höheren Pflanzen aus Chloroplasten)                                                                    |
+### Adipocyten - "Fettzellen"
+Jede Fettzelle enthält ein *Fetttröpfchen*, das fast die ganze Zelle ausfüllt. Speichert [[Lipide#Triglyceride - "Fett"|Triglyceride]], meist Triacylglycerine umgangssprachlich stumpf als "Fett" bezeichnet.
 
 ## Vergleich
 
@@ -65,3 +70,4 @@ Organismen die praktisch sind und sich aufgrund ihrer Eigenschaften gut für Ver
 Hat auf molekularer Ebene ähnliche Lebensprozesse wie die Zellen eines Menschen. Wird für Drogen-tests werdet.
 ### Saccharomyces cerevisiae (Hefe)
 Einzeller. In geringem Umfang mit Menschen verwandt. Für Krebsforschung relevant. Bietet sich für die Beobachtung des Zellzyklus an. 
+

@@ -4,6 +4,7 @@ tags:
   - Chemistry
 subject:
   - Basics
+  - Biochemistry
 ---
 # Core ideas
 [Protein Structure - Professor Dave Explains](https://www.youtube.com/watch?v=EweuU2fEgjw&list=PLybg94GvOJ9Fazvaf8unWl9J2soXCAvy4)

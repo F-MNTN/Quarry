@@ -4,6 +4,8 @@ tags:
   - Chemistry
 subject:
   - Basics
+  - Biochemistry
+  - Analytical Chemistry
 ---
 # Core ideas
  Wasser steht im Zentrum des intelligenten Lebens. Warum?

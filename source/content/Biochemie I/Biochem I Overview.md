@@ -3,6 +3,9 @@ created: 2026-07-02
 tags:
   - Chemistry
 subject:
+  - Basics
+  - Biochemistry
+  - Biology
 ---
 # Core ideas
 1. [[Grundlagen der Biochemie]]
@@ -12,7 +15,7 @@ subject:
 	- [[Proteine]]
 		- [[Enzym|Enzyme]]
 	- [[Nukleinsäuren]]
-	- [[Kohlenhydrate & Lipide]]
+	- [[Kohlenhydrate]] & [[Lipide]]
 3. Stoffwechsel
 	- Allgemeine Prinzipien
 	- Biothermodynamik

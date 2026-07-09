@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/docs/upgrading.md",
+                "file": "source/content/Biochemie I/Lipide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "upgrading"
+              "title": "Lipide"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b9cb8812c5698b1",
@@ -198,9 +199,22 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/Biochemie I/Nukleinsäuren.md",
+    "source/content/99 - Attachments/Pasted image 20260709124126.png",
+    "source/content/99 - Attachments/Pasted image 20260709124122.png",
+    "source/content/Biochemie I/Zelle.md",
+    "source/content/Biochemie I/Lipide.md",
+    "source/content/Biochemie I/Kohlenhydrate.md",
+    "source/content/99 - Attachments/Pasted image 20260709122019.png",
+    "source/content/99 - Attachments/Pasted image 20260709121019.png",
+    "source/content/99 - Attachments/Pasted image 20260709120336.png",
     "source/content/Biochemie I/Biochem I Overview.md",
-    "source/content/Biochemie I/Kohlenhydrate & Lipide.md",
+    "source/content/Biochemie I/Nukleinsäuren.md",
+    "source/content/Biochemie I/Enzym.md",
+    "source/content/Biochemie I/Proteine.md",
+    "source/content/Biochemie I/Biomoleküle.md",
+    "source/content/Biochemie I/Wasser.md",
+    "source/content/Biochemie I/Grundlagen der Biochemie.md",
+    "source/docs/upgrading.md",
     "source/content/99 - Attachments/Pasted image 20260708192846.png",
     "source/content/99 - Attachments/Pasted image 20260708192125.png",
     "source/content/99 - Attachments/Pasted image 20260708192043.png",
@@ -208,25 +222,13 @@
     "source/content/Biochemie I/Glykogen.md",
     "source/content/99 - Attachments/Pasted image 20260708191332.png",
     "source/content/99 - Attachments/Pasted image 20260708191253.png",
-    "source/content/99 - Attachments/Pasted image 20260708184910.png",
-    "source/content/Biochemie I/Biomoleküle.md",
-    "source/content/Biochemie I/Proteine.md",
-    "source/content/99 - Attachments/Pasted image 20260708184036.png",
-    "source/content/Biochemie I/Zelle.md",
     "source/content/Biochemie I/Genom.md",
-    "source/content/99 - Attachments/Pasted image 20260708181820.png",
-    "source/content/99 - Attachments/Pasted image 20260708180815.png",
-    "source/content/Biochemie I/Enzym.md",
     "source/content/Biochemie I/Aminosäure.md",
     "README.md",
     "source/content/index.md",
     "source/content/AC I/Säure-Base.md",
-    "source/content/Biochemie I/Lipide.md",
-    "source/content/Biochemie I/Kohlenhydrate.md",
     "source/content/Mathe II/Interpolation.md",
     "Mathe_II_Skriptum.pdf.md",
-    "source/content/Biochemie I/Grundlagen der Biochemie.md",
-    "source/content/Biochemie I/Wasser.md",
     "source/content/How I study.md",
     "source/content/AC I/Vorproben.md",
     "conflict-files-obsidian-git.md",

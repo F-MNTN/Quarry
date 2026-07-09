@@ -3,6 +3,9 @@ created: 2026-07-03
 tags:
   - Chemistry
 subject:
+  - Basics
+  - Biochemistry
+  - Biology
 ---
 # Core ideas
 [[Proteine]]
