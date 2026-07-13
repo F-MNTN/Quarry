@@ -110,3 +110,65 @@ Ist für die [[Proteine|Protein]]-Synthese in Ribosomen verantwortlich.
 ### tRNA
 **Transfer RNA** - ist die physische Verbindung zwischen [[#mRNA]] und den [[Aminosäure|Aminosäuren]]. Spielt eine zentrale Rolle in der Transkription. ![[Pasted image 20260708184036.png]]
 [Source](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Peptide_syn.svg/1920px-Peptide_syn.svg.png)
+
+## Transport durch die Membran
+Die [[Lipide#Auswirkung auf die Membranstruktur|Membran]] einer [[Zelle]] ist eine [[Lipide#Phospholipide|Phospholipid]]-[[Grundlagen der Biochemie#Lipid-Doppelschicht|Doppelschicht]]. Extrazellulärere Austausch ist primär durch 2 Wege möglich
+### Passiver Transport
+Ist eine Art von Membran-transport, der keine Energie braucht um Substanzen zwischen den Seiten auszutauschen. Anstatt von Zell-Energie angetrieben zu werden wird dieser Prozess von dem [2. Lehrsatz der Thermodynamik](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) propagiert.
+#### Ionophore
+![[Pasted image 20260713114636.png]]
+[Source](https://en.wikipedia.org/wiki/Ionophore)
+##### Carrier-Ionophor
+a) in Bild
+transportieren Ionen indem sie diese binden und dann mit ihnen durch die [[Grundlagen der Biochemie#Lipid-Doppelschicht|Lipid-Doppelschicht]] [[Grundlagen der Biochemie#Diffusion der Phospholipiden|diffundieren]].
+##### Kanalbildender Ionophor
+b) in Bild
+Erzeugen einen bleibenden Kanal durch die Membran, Ionen können hier durch diffundieren.
+#### Porine
+Sind [[Proteine#Motive|Beta-Fässer]]-enthaltende [[Proteine]], die als Poren in der [[Zelle#Eukaryoten|Zellwand]] wirken. Durch sie können Moleküle diffundieren. Können auch spezifisch auf bestimmte Moleküle abgestimmt sein. Sind in de äußeren-Membran von [Gram-negative bacteria](https://en.wikipedia.org/wiki/Gram-negative_bacteria) (und in wenigen [Gram-positive bacteria](https://en.wikipedia.org/wiki/Gram-positive_bacteria)) zu finden.
+#### Ionenkanäle
+[[Proteine]] die hoch-selektive Kanäle für Ionen bilden. 
+![[Pasted image 20260713120825.png]]
+[Source](https://de.wikipedia.org/wiki/Ionenkanal)
+#### Aquarporine
+Sind [[Proteine]], die die Diffusion von [[Wasser]] und einigen anderen Molekülen ermöglichen. Kommen in allen Lebewesen mit Zellmembran vor. [Ref.](https://de.wikipedia.org/wiki/Aquaporine)
+#### Transportproteine
+Wechselt zwischen zwei, [gegenseitig ausschließenden Konformationen](https://de.wikipedia.org/wiki/Transportprotein#Transport_durch_die_Zellmembran). 
+![[Pasted image 20260713122105.png]]
+[Source](https://www.u-helmich.de/bio/cytologie/05/index05.html)
+### Aktiver Transport
+Wird durch Zell-Energie angetrieben und kann somit auch gegen den Konzentrations-Gradienten gehen. Ist ein endogener Vorgang, der in den meisten Fällen mit Hydrolyse von ATP einhergeht (Ref.: [[Enzym#ATPase|ATPase]]).  
+- P-Typ ATPasen (Kationen Transport)
+- A-Typ ATPasen (Anionen Transport)
+- F-Typ ATPasen (Protein Transport)
+- V-Typ ATPasen (Pflanzliche Vakuolen, Lysosomen, saure Vesikel)
+- ABC Transporter (nach ATP Bindungskassette benannt, transportieren Ionen kleine Metaboliten und Arzneimittel-komplexe)
+### Transportrichtungen
+![[Pasted image 20260713125255.png]]
+[Source](https://pediaa.com/what-is-the-difference-between-uniport-symport-and-antiport/)
+
+> [!Quote] References
+> [Membrane Transport - Austin Publishing Group](https://austinpublishinggroup.com/ebooks/basic-biochemistry/chapters/BBC-16-02.pdf)
+#### Uniport
+Ist ein integrales Membran-[[Proteine|Protein]], dass eine einzelne Art von Molekül durch eine Membran diffundieren lässt.
+Es ist ein Transportmolekül, dass [[#Aktiver Transport|primären aktiven Transport]] (also durch ATP vorangetriebenen Transport) verwendet.
+> [!Example] Bsp.:
+> Das weiterleiten von Aktionspotentialen in Neuronen sind Uniport. 
+
+- Transportiert nur in ==eine Richtung==
+- Transportiert nur eine Art von Molekül
+- Wird von ATP angetrieben ==(primärer Transport)==
+#### Symport
+Ist eine Art von sekundärem, aktiven Transport. Es transportiert selektiv 2 verschiedene Moleküle in die gleiche Richtung.
+> [!Example] Bsp.:
+> SGLT1 im intestinalen epithelium ist ein symporter. Es transportiert $Na^{+}$-Ionen und Glukose über die luminale Membran der Epithelzellen damit es im Blut gelöst werden kann.
+- Ist eine Art von [Cotransporter](https://en.wikipedia.org/wiki/Cotransporter).
+- Transportiert nur in ==eine Richtung==
+- ==Transportiert 2 verschiedene Arten von Molekülen==
+- Wird von elektrochemischen Potentialunterschieden (Spannung) angetrieben ==(sekundärer Transport)==
+#### Antiport
+Ist eine Art von sekundärem, aktiven Transport. Es transportiert selektiv 2 verschiedene Moleküle in Gegenrichtung voneinander.
+- Ist eine Art von [Cotransporter](https://en.wikipedia.org/wiki/Cotransporter).
+- Transportiert in ==beide Richtungen==
+- ==Transportiert 2 verschiedene Arten von Molekülen== 
+- Wird von elektrochemischen Potentialunterschieden (Spannung) angetrieben ==(sekundärer Transport)==

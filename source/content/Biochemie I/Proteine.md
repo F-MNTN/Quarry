@@ -73,10 +73,10 @@ Wobei die $\alpha$-Helix intramolekulare und das $\beta$-Faltblatt intermolekula
 
 #### $\beta$-Faltblatt
 Wird aus verschiedenen Teilen des Proteins gebildet (da intermolekulare $H$-Brückenbindungen bilden)
--  - 5-10 Reste lang
+- 5-10 Reste lang
 Fast komplett gestreckt:
-	- - $\phi \in [-40°;-180°]$
-	- - $\psi \in [20°;180°]$
+- $\phi \in [-40°;-180°]$
+- $\psi \in [20°;180°]$
 Besitzt parallele und anti-parallele Konformationen
 Seitenketten sind abwechselnd über- und unterhalb der Faltblatt-ebene zu finden.
 
@@ -90,9 +90,10 @@ of Funktionseinheiten (sub-units)
 Kombination von 1-2 [[#$ alpha$-Helix|Helix]]- und 1-2 [[#$ beta$-Faltblatt|Faltblatt]]-Strukturen zu einer räumlich definierten Einheit.
 Die häufigsten Motive sind:
 - $\beta \alpha \beta$-Motiv
-- $\beta$-Haarnadelschleife
+- $\beta$[-Haarnadelschleife](https://de.wikipedia.org/wiki/%CE%92-Schleife)
+- $\beta$[-Fass](https://de.wikipedia.org/wiki/%CE%92-Fass)
 - $\alpha \alpha$-Motiv
-- Greek-key
+- [Greek-key](https://bio.libretexts.org/Bookshelves/Biochemistry/Fundamentals_of_Biochemistry_(Jakubowski_and_Flatt)/01%3A_Unit_I-_Structure_and_Catalysis/04%3A_The_Three-Dimensional_Structure_of_Proteins/4.04%3A_Secondary_Structural_Motifs_and_Domains#4.4.1.3:_Greek_Key)
 	- ineinander gefaltete $\beta$-Haarnadelschleife
 #### Stabilisierung durch Disulfid-Bindungen
 Die Aminosäure Cystin hat eine Thiol-Gruppe ($-SH$) als seinen Rest ($-R$). Wenn 2 Cystin-Aminosäuren innerhalb einer Proteinstruktur nahe genug aneinander kommen können durch leichte Oxidation $S-S$ Bindungen bilden, die die tertiäre Struktur des Proteins weiter stabilisieren. 

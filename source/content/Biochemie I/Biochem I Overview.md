@@ -16,7 +16,7 @@ subject:
 		- [[Enzym|Enzyme]]
 	- [[Nukleinsäuren]]
 	- [[Kohlenhydrate]] & [[Lipide]]
-3. Stoffwechsel
+3. [[Stoffwechsel]]
 	- Allgemeine Prinzipien
 	- Biothermodynamik
 	- Enzyme und Enzymkinetik
