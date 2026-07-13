@@ -38,7 +38,7 @@ Sind Stoffe, die zusammen mit dem eigentlichen Substrat der Reaktion benötigt w
 > - ...
 
 ### Metalloproteine
-Metall-Ionen die an ein Enzym gebunden und für dessen Katalyse erforderlich sind, sind auch Teil von den [Cofaktoren](https://de.wikipedia.org/wiki/Cofaktor_(Biochemie).
+Metall-Ionen die an ein Enzym gebunden und für dessen Katalyse erforderlich sind.
 Das entsprechende [[Enzym]] wird Metalloenzym genannt.
 
 ## ATPase
@@ -47,3 +47,16 @@ Dieser Prozess existiert in allen bekannten Lebensformen.
 Bsp.: $Na^{+},K^{+}$-ATPase
 ![[Pasted image 20260713124927.png]]
 [Source](https://en.wikipedia.org/wiki/ATPase#/media/File:Scheme_sodium-potassium_pump-en.svg)
+
+## Enzym-Substrat (ES) Komplex
+Ist der Komplex der während der Reaktion eines Enzyms - $E$ und einem zugehörigen Substrats - $S$ entsteht. 
+### lock & key - Modell (alt)
+ $E$ & $S$ müssen zusammen passen, sind aufeinander abgestimmt und zueinander komplementär.
+![[Pasted image 20260713145135.png]]
+[Source](https://techschematic.com/enzyme-lock-and-key-diagram)
+
+### induced fit - Modell (neu)
+ $E$ & $S$ müssen auf sich eingestellt sein, die Struktur muss aber erst nach Bindung des Substrats wirklich komplementär sein.  
+![[Pasted image 20260713145032.png]]
+[Source](https://studyflix.de/biologie/schlussel-schloss-prinzip-2648)
+

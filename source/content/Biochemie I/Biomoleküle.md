@@ -74,9 +74,9 @@ Dabei ist auch nur partielle Denaturierung/Renaturierung möglich, wobei nur Tei
 
 - Beinhaltete Ribose anstatt der 2-Desoxiribose
 - U - Uracil ersetzt T - Thymin
-- ist nur einzelsträngig -> intramolekulare Schleifenbildung ist möglich
+- ist typischerweise einzelsträngig -> intramolekulare Schleifenbildung (Bildung von Sekudärstukturen) ist möglich
 
-> [!info] Aufgabenbereiche der verschiedenen RAN-arten
+> [!info] Aufgabenbereiche der verschiedenen RNA-arten
 > ### Proteinsynthese:
 > - mRNA
 > - rRNA
@@ -90,7 +90,7 @@ Dabei ist auch nur partielle Denaturierung/Renaturierung möglich, wobei nur Tei
 > - ...
 > ### Regulatorische RNA
 > - Antisense RNA
-> - CRIPSR RNA
+> - CRISPR RNA/crRNA
 > - long nc RNA
 > - Piwi RNA
 > - tasi RNA
@@ -103,44 +103,50 @@ Dabei ist auch nur partielle Denaturierung/Renaturierung möglich, wobei nur Tei
 
 
 ### mRNA
-**Messenger RNA** - entsteht während Transkription der [[#DNA - Desoxyribonucleicacid|DNA]] wo das [[Enzym]] RNA-Polymerase das [[Genom#Eukaryotisches Gen|Gen]] in primär transcript mRNA (auch pre-mRNA gennant) überträgt. Es beinhaltet i.a. noch [[Genom#Eukaryotisches Gen|introns]]. Beinhaltet also Coding und non-Coding Passagen.
+**Messenger RNA** - entsteht während Transkription der [[#DNA - Desoxyribonucleicacid|DNA]]. Das [[Enzym]] RNA-Polymerase katalysiert die Reaktion, die [[Genom#Eukaryotisches Gen|Gen]] in "primary-transcript-mRNA" (pre-mRNA) reagiert. Es beinhaltet für [[Zelle#Eukaryoten|eukaryotische Zellen]] im Allgemeinen noch [[Genom#Eukaryotisches Gen|introns]]. Beinhaltet also Coding und non-Coding Passagen.
 ### rRNA
 **Ribosomal RNA** - eine Art von non-Coding RNA was den hauptbestandteil von Ribosomen darstellt. 
 Ist für die [[Proteine|Protein]]-Synthese in Ribosomen verantwortlich.
 ### tRNA
-**Transfer RNA** - ist die physische Verbindung zwischen [[#mRNA]] und den [[Aminosäure|Aminosäuren]]. Spielt eine zentrale Rolle in der Transkription. ![[Pasted image 20260708184036.png]]
+**Transfer RNA** - ist die physische Verbindung zwischen [[#mRNA]] und den [[Aminosäure|Aminosäuren]]. Spielt eine zentrale Rolle in der Translation(Proteinsynthese). ![[Pasted image 20260708184036.png]]
 [Source](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Peptide_syn.svg/1920px-Peptide_syn.svg.png)
 
 ## Transport durch die Membran
 Die [[Lipide#Auswirkung auf die Membranstruktur|Membran]] einer [[Zelle]] ist eine [[Lipide#Phospholipide|Phospholipid]]-[[Grundlagen der Biochemie#Lipid-Doppelschicht|Doppelschicht]]. Extrazellulärere Austausch ist primär durch 2 Wege möglich
 ### Passiver Transport
-Ist eine Art von Membran-transport, der keine Energie braucht um Substanzen zwischen den Seiten auszutauschen. Anstatt von Zell-Energie angetrieben zu werden wird dieser Prozess von dem [2. Lehrsatz der Thermodynamik](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) propagiert.
+Ist eine Art von Membran-transport, der keine Energie in Form von ATP braucht um Substanzen zwischen den Seiten auszutauschen. Anstatt von Zell-Energie angetrieben zu werden wird dieser Prozess von dem [[Biothermodynamik#2. Hauptsatz der Thermodynamik|2. Hauptsatz der Thermodynamik]] propagiert.
+> [!Information] Im Bezug zu Ionnen-Gradienten
+> Passiver Transport funktioniert nur **in Richtung** des elektrochemischen Gradienten.
+> Für Transport in Gegenrichtung bräuchte es eine andere Energiequelle wie zb ATP. Was [[#Aktiver Transport]] wäre. 
 #### Ionophore
 ![[Pasted image 20260713114636.png]]
 [Source](https://en.wikipedia.org/wiki/Ionophore)
 ##### Carrier-Ionophor
 a) in Bild
-transportieren Ionen indem sie diese binden und dann mit ihnen durch die [[Grundlagen der Biochemie#Lipid-Doppelschicht|Lipid-Doppelschicht]] [[Grundlagen der Biochemie#Diffusion der Phospholipiden|diffundieren]].
+transportieren Ionen als Carrier/Komplex durch die [[Grundlagen der Biochemie#Lipid-Doppelschicht|Membran]]. Man sagt, sie "[[Grundlagen der Biochemie#Diffusion der Phospholipiden|diffundieren]]".
+
+> [!Warning] Carrier-Ionophore $\neq$ Carrier-Proteine 
+> Carrier-Ionophore sind kleine Ionophore, die Ionen durch eine Membran transportieren.
 ##### Kanalbildender Ionophor
 b) in Bild
-Erzeugen einen bleibenden Kanal durch die Membran, Ionen können hier durch diffundieren.
+Stellen einen Ionen-Durchlass her.
 #### Porine
-Sind [[Proteine#Motive|Beta-Fässer]]-enthaltende [[Proteine]], die als Poren in der [[Zelle#Eukaryoten|Zellwand]] wirken. Durch sie können Moleküle diffundieren. Können auch spezifisch auf bestimmte Moleküle abgestimmt sein. Sind in de äußeren-Membran von [Gram-negative bacteria](https://en.wikipedia.org/wiki/Gram-negative_bacteria) (und in wenigen [Gram-positive bacteria](https://en.wikipedia.org/wiki/Gram-positive_bacteria)) zu finden.
+Sind [[Proteine#Motive|Beta-Fässer]]-enthaltende [[Proteine]], die als Poren in der Außenmembran (zB.: bei Bakterien oder Kompartimenten) wirken. Durch sie können Moleküle diffundieren. Können auch spezifisch auf bestimmte Moleküle abgestimmt sein. Sind in der äußeren-Membran von [Gram-negative bacteria](https://en.wikipedia.org/wiki/Gram-negative_bacteria) (und in wenigen [Gram-positive bacteria](https://en.wikipedia.org/wiki/Gram-positive_bacteria)) zu finden.
 #### Ionenkanäle
 [[Proteine]] die hoch-selektive Kanäle für Ionen bilden. 
 ![[Pasted image 20260713120825.png]]
 [Source](https://de.wikipedia.org/wiki/Ionenkanal)
 #### Aquarporine
 Sind [[Proteine]], die die Diffusion von [[Wasser]] und einigen anderen Molekülen ermöglichen. Kommen in allen Lebewesen mit Zellmembran vor. [Ref.](https://de.wikipedia.org/wiki/Aquaporine)
-#### Transportproteine
+#### Carrier/Transporter (erleichterte Diffusion)
 Wechselt zwischen zwei, [gegenseitig ausschließenden Konformationen](https://de.wikipedia.org/wiki/Transportprotein#Transport_durch_die_Zellmembran). 
 ![[Pasted image 20260713122105.png]]
 [Source](https://www.u-helmich.de/bio/cytologie/05/index05.html)
 ### Aktiver Transport
 Wird durch Zell-Energie angetrieben und kann somit auch gegen den Konzentrations-Gradienten gehen. Ist ein endogener Vorgang, der in den meisten Fällen mit Hydrolyse von ATP einhergeht (Ref.: [[Enzym#ATPase|ATPase]]).  
 - P-Typ ATPasen (Kationen Transport)
-- A-Typ ATPasen (Anionen Transport)
-- F-Typ ATPasen (Protein Transport)
+- A-Typ ATPasen (Ionen transuzierend)
+- F-Typ ATPasen (ATP-Synthese, Protonengradient)
 - V-Typ ATPasen (Pflanzliche Vakuolen, Lysosomen, saure Vesikel)
 - ABC Transporter (nach ATP Bindungskassette benannt, transportieren Ionen kleine Metaboliten und Arzneimittel-komplexe)
 ### Transportrichtungen
@@ -149,26 +155,25 @@ Wird durch Zell-Energie angetrieben und kann somit auch gegen den Konzentrations
 
 > [!Quote] References
 > [Membrane Transport - Austin Publishing Group](https://austinpublishinggroup.com/ebooks/basic-biochemistry/chapters/BBC-16-02.pdf)
+
+> [!Note] Primär vs Sekundär Transport
+> - Zu **primärer Transport** gehören Transportreaktionen, die von [[Biothermodynamik#ATP - Adenosin Triphosphat|ATP]] ihre Energie bekommen
+> - Zu **sekundärer Transport** gehören Transportreaktionen, die von elektrochemischen Potentialunterschieden (Spannung) angetrieben werden
+> 
+> Diese Eigenschaften sind unabhängig von der Richtung des Transports
 #### Uniport
 Ist ein integrales Membran-[[Proteine|Protein]], dass eine einzelne Art von Molekül durch eine Membran diffundieren lässt.
-Es ist ein Transportmolekül, dass [[#Aktiver Transport|primären aktiven Transport]] (also durch ATP vorangetriebenen Transport) verwendet.
-> [!Example] Bsp.:
-> Das weiterleiten von Aktionspotentialen in Neuronen sind Uniport. 
 
-- Transportiert nur in ==eine Richtung==
+- Transportiert nur in ==eine Richtung== gleichzeitig
 - Transportiert nur eine Art von Molekül
-- Wird von ATP angetrieben ==(primärer Transport)==
 #### Symport
-Ist eine Art von sekundärem, aktiven Transport. Es transportiert selektiv 2 verschiedene Moleküle in die gleiche Richtung.
 > [!Example] Bsp.:
 > SGLT1 im intestinalen epithelium ist ein symporter. Es transportiert $Na^{+}$-Ionen und Glukose über die luminale Membran der Epithelzellen damit es im Blut gelöst werden kann.
 - Ist eine Art von [Cotransporter](https://en.wikipedia.org/wiki/Cotransporter).
-- Transportiert nur in ==eine Richtung==
-- ==Transportiert 2 verschiedene Arten von Molekülen==
-- Wird von elektrochemischen Potentialunterschieden (Spannung) angetrieben ==(sekundärer Transport)==
+- Transportiert nur in ==eine Richtung== gleichzeitig
+- ==Transportiert 2 verschiedene Substrate gekoppelt in die gleiche Richtung==
 #### Antiport
 Ist eine Art von sekundärem, aktiven Transport. Es transportiert selektiv 2 verschiedene Moleküle in Gegenrichtung voneinander.
 - Ist eine Art von [Cotransporter](https://en.wikipedia.org/wiki/Cotransporter).
-- Transportiert in ==beide Richtungen==
-- ==Transportiert 2 verschiedene Arten von Molekülen== 
-- Wird von elektrochemischen Potentialunterschieden (Spannung) angetrieben ==(sekundärer Transport)==
+- Transportiert ==2 Substrate je in Gegenrichtung von einander==
+- ==Transportiert 2 Substrate gekoppelt gleichzeitig in verschiedene Richtungen== (Seitentausch)

@@ -13,18 +13,16 @@ subject:
 	- [[Wasser]]
 2. [[Biomoleküle]]
 	- [[Proteine]]
-		- [[Enzym|Enzyme]]
 	- [[Nukleinsäuren]]
 	- [[Kohlenhydrate]] & [[Lipide]]
 3. [[Stoffwechsel]]
-	- Allgemeine Prinzipien
-	- Biothermodynamik
-	- Enzyme und Enzymkinetik
-	1. Katabolismus 
+	- [[Biothermodynamik]]
+	- [[Enzym|Enzyme und Enzymkinetik]]
+	1. [[Katabolismus]] 
 		- Kohlenhydrat Abbau (Glykolyse, NADH Regeneration, Pentosephosphatweg, Pyruvat Abbau, Atmungskette, Zitronensäure Zyklus...)
 		- Fettabbau (Lipasen, Glycerinabbau, ß-Oxidation)
 		- Proteinabbau (Proteasen, Aminosäure Abbau, Harnstoffzyklus)
-	2. Anabolismus
+	2. [[Anabolismus]]
 		- Photosynthese: Dunkelreaktion und Lichtreaktion
 		- Gluconeogenese
 		- Glycogen-Stoffwechsel

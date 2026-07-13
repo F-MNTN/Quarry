@@ -10,6 +10,21 @@ subject:
 
 # Content
 
+## Hauptziele
+- Synthese von Biomolekülen (z.B.: [[Proteine]], ...)
+- Mechanische Arbeit (z.B.: Muskelkontraktion, ...)
+- Aktiver Transport von Molekülen und Ionen (z.B.: Nervenzellen)
+Lebewesen können Zustände weit entfernt vom [[Biothermodynamik#GGW|thermodynamischen GGW]] aufrecht erhalten.
+
+## Stoffwechselwege
+### Wiederkehrende Muster
+- Verknüpfung von Stoffwechselwegen (gleiche Metaboliten, aktivierte Carrier, ...)
+- Wiederkehrende Schlüsselreaktionen
+- 3 grundlegende Arten der Regulationen
+#### Carrier
+Die 
+
+
 ## Metabolismus
 Alle chemischen Prozesse die in einem Organismus statt finden i.a.:
 - Abbau einer Substanz für Energiegewinnung
@@ -20,7 +35,7 @@ Diese chemischen Prozesse brauchen organische Katalysatoren, die Enzyme genannt 
 > - Sie tauschen Energie und Materie mit ihrer Umgebung aus
 > - Zielen nicht auf thermodyn. GGW ab
 > - Sind auf ein Fließ-GGW gerichtet (Homöostase) wobei sie bestimmte Parameter (pH, Volumen, Energie , ...) versuchen in einem Toleranzbereich zu halten um den Zyklus zu propagieren
-### Anabolismus
+### [[Anabolismus]]
 Aufbau von [[Biomoleküle|Biomolekülen]]
 - [[Proteine]]
 - [[Kohlenhydrate]]
@@ -30,7 +45,7 @@ $$
 \text{nutzbare Energie } + \text{ einfache Vorstufen } \xrightarrow{Anabolismus} \text{ komplexe Moleküle} 
 \end{gather}
 $$
-### Katabolismus
+### [[Katabolismus]]
 Abbau von [[Biomoleküle|Biomolekülen]] & Bereitstellung von chemisch nutzbarer Energie für Lebensprozesse. 
 $$
 \begin{gather}
