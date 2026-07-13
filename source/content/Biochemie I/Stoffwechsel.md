@@ -21,18 +21,17 @@ Diese chemischen Prozesse brauchen organische Katalysatoren, die Enzyme genannt 
 > - Zielen nicht auf thermodyn. GGW ab
 > - Sind auf ein Fließ-GGW gerichtet (Homöostase) wobei sie bestimmte Parameter (pH, Volumen, Energie , ...) versuchen in einem Toleranzbereich zu halten um den Zyklus zu propagieren
 ### Anabolismus
-Aufbau von [[Biomoleküle|Biomolekülen]].
+Aufbau von [[Biomoleküle|Biomolekülen]]
 - [[Proteine]]
 - [[Kohlenhydrate]]
 - [[Lipide]]
-
 $$
 \begin{gather}
 \text{nutzbare Energie } + \text{ einfache Vorstufen } \xrightarrow{Anabolismus} \text{ komplexe Moleküle} 
 \end{gather}
 $$
 ### Katabolismus
-
+Abbau von [[Biomoleküle|Biomolekülen]] & Bereitstellung von chemisch nutzbarer Energie für Lebensprozesse. 
 $$
 \begin{gather}
 \text{Brennstoffe } + O_{2} \xrightarrow{Katabolismus} H_{2}O + CO_{2} +\text{ nutzbare Energie} 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Biochemie I/Stoffwechsel.md",
+                "file": "source/content/Biochemie I/Enzym.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stoffwechsel"
+              "title": "Enzym"
             }
           }
         ]
@@ -199,16 +199,18 @@
   },
   "active": "28b95d4765b4159b",
   "lastOpenFiles": [
-    "source/content/Biochemie I/Grundlagen der Biochemie.md",
+    "source/content/Biochemie I/Aminosäure.md",
+    "source/content/99 - Attachments/Pasted image 20260713140433.png",
+    "source/content/Biochemie I/Enzym.md",
+    "source/content/Biochemie I/Proteine.md",
     "source/content/Biochemie I/Stoffwechsel.md",
     "source/content/Biochemie I/Biochem I Overview.md",
+    "source/content/Biochemie I/Grundlagen der Biochemie.md",
     "source/content/Biochemie I/Biomoleküle.md",
     "source/content/99 - Attachments/Pasted image 20260713125255.png",
-    "source/content/Biochemie I/Enzym.md",
     "source/content/99 - Attachments/Pasted image 20260713124927.png",
     "source/content/99 - Attachments/Pasted image 20260713122105.png",
     "source/content/99 - Attachments/Pasted image 20260713120825.png",
-    "source/content/Biochemie I/Proteine.md",
     "source/content/99 - Attachments/Pasted image 20260713114636.png",
     "source/content/Biochemie I/Lipide.md",
     "source/content/99 - Attachments/Pasted image 20260709175600.png",
@@ -219,11 +221,9 @@
     "source/content/Biochemie I/Zelle.md",
     "source/content/Biochemie I/Genom.md",
     "source/content/99 - Attachments/Pasted image 20260709172949.png",
-    "source/content/99 - Attachments/Pasted image 20260709172702.png",
     "source/content/Biochemie I/Nukleinsäuren.md",
     "source/content/Biochemie I/Wasser.md",
     "source/content/Biochemie I/Glykogen.md",
-    "source/content/Biochemie I/Aminosäure.md",
     "README.md",
     "source/content/index.md",
     "source/content/AC I/Säure-Base.md",
@@ -237,7 +237,6 @@
     "source/content/AC I/Trennungsgang.canvas",
     "source/content/AC I/Trennungsgang_Graph.canvas",
     "source/docs/advanced/making plugins.md",
-    "source/docs/advanced/index.md",
     "source/content/99 - Attachments/Icons",
     "Untitled",
     "99 - Meta/Templates",

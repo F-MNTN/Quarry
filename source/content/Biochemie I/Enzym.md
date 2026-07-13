@@ -7,8 +7,40 @@ subject:
   - Biochemistry
 ---
 # Core ideas
-Enzyme sind eine Art von [[Proteine#Globuläre Proteine|globuläres Protein]], dass als Biokatalysator agiert.
+Enzyme sind überwiegend eine Art von [[Proteine#Globuläre Proteine|globuläres Protein]] ([Ribozyme](https://en.wikipedia.org/wiki/Ribozyme) sind eine Art von Enzym, dass aus RNA besteht), dass als Biokatalysator agiert. Ist regulierbar und erlaubt einem Organismus Organismus die Reaktionen des [[Stoffwechsel]] einzeln spontan zu ermöglichen/inhibieren.
+Die Katalyse findet an einer Bestimmten stelle des Enzyms, das ==aktive Zentrum== statt.
 # Content
+## Kofaktoren
+Dienen dazu Reaktionen durchzuführen, die nicht alleine mit den [[Aminosäure#20 Standard-Aminosäuren|20 Standard-Aminosäuren]] erfolgen können.
+$$
+\begin{gather}
+\text{Apoenzym }+\text{ Kofaktor} = \text{Holoenzym} \\
+\end{gather}
+$$
+
+^eq1
+
+### Apoenzym
+Ein [Apoenzym](https://pharmaeducation.net/enzyme-coenzyme-apoenzyme-holoenzyme-cofactor/#Apoenzyme) ist ein Enzym, dass einen Kofaktor benötigt um seine spezifische katalytische Rolle auszuführen, diesen aber nicht gebunden hat. Auch "Apoprotein", "Proenzym", "Zymogen"  genannt. 
+
+#### Holoenzym
+Wie in [[Enzym#^eq1|Gleichung 1]]  dargestellt ist ein Holoenzym ein [[#Apoenzym]], das an seinen nötigen Kofaktor gebunden ist.
+### Prosthetische Gruppen - fest gebundene Koenzyme 
+*Fest* gebundene Koenzyme.
+Ein organisches Molekül, das kovalent an ein [[Enzym]] gebunden ist; die prostetische Gruppe kann also nicht dissoziieren.
+> [!Example] Bsp.:
+> Häm ist die prothetische Gruppe der Hämoproteine bzw. Cytochrome
+### Kosubstrate - lose gebundene Coenzyme
+Sind Stoffe, die zusammen mit dem eigentlichen Substrat der Reaktion benötigt werden um diese voranzutreiben. Im Bezug auf Enzyme bedeutet das, dass beide Gruppen (Substrat und Kosubstrat) gebunden sein müssen, damit das Enzym eine spezifische Reaktion katalysieren kann. 
+> [!Example] Bsp.:
+> - ATP
+> - NADH
+> - ...
+
+### Metalloproteine
+Metall-Ionen die an ein Enzym gebunden und für dessen Katalyse erforderlich sind, sind auch Teil von den [Cofaktoren](https://de.wikipedia.org/wiki/Cofaktor_(Biochemie).
+Das entsprechende [[Enzym]] wird Metalloenzym genannt.
+
 ## ATPase
 Sind eine [Gruppe von Enzymen](https://en.wikipedia.org/wiki/ATPase), die die Zersetzung von ATP zu ADP und freien Phosphat-Ionen (Oder auch die inverse Bildungsreaktion) Katalysieren. 
 Dieser Prozess existiert in allen bekannten Lebensformen.
